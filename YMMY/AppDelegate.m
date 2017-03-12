@@ -18,7 +18,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"222");
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen]bounds]];
     self.window.rootViewController = [[YMNavgatinController alloc] initWithRootViewController:[[PosLoginViewController alloc] init]];
     [self.window makeKeyAndVisible];

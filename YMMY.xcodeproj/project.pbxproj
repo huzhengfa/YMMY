@@ -237,11 +237,8 @@
 		180BAE891E757EC800254F3F /* icon_contecon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAE871E757EC800254F3F /* icon_contecon@3x.png */; };
 		180BAE8A1E757EC800254F3F /* icon_contecon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAE881E757EC800254F3F /* icon_contecon@2x.png */; };
 		180BAED61E7581DB00254F3F /* PosDayCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */; };
-		180BAED71E7581DB00254F3F /* PosInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */; };
 		180BAED81E7581DB00254F3F /* PosVipQueryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */; };
-		180BAED91E7581DB00254F3F /* PosOldinforViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */; };
 		180BAEDA1E7581DB00254F3F /* PosOrderRefundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */; };
-		180BAEDB1E7581DB00254F3F /* PosMoneyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */; };
 		180BAEDC1E7581DB00254F3F /* PosPlanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */; };
 		180BAEDD1E7581DB00254F3F /* PosQuickCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAC1E7581DB00254F3F /* PosQuickCashViewController.m */; };
 		180BAEDE1E7581DB00254F3F /* AccountInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAF1E7581DB00254F3F /* AccountInfoViewController.m */; };
@@ -256,10 +253,10 @@
 		180BAEE71E7581DB00254F3F /* PrvacylifeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC11E7581DB00254F3F /* PrvacylifeViewController.m */; };
 		180BAEE81E7581DB00254F3F /* PurchasehistoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC31E7581DB00254F3F /* PurchasehistoryViewController.m */; };
 		180BAEE91E7581DB00254F3F /* SalesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC51E7581DB00254F3F /* SalesViewController.m */; };
-		180BAEEA1E7581DB00254F3F /* PosAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC81E7581DB00254F3F /* PosAboutViewController.m */; };
 		180BAEEB1E7581DB00254F3F /* PosSetopasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */; };
 		180BAEEC1E7581DB00254F3F /* PosSystemSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */; };
 		180BAEED1E7581DB00254F3F /* PosVipRegistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */; };
+		1810A4971E759357001A3D1A /* EmployeesdailyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1810A4961E759357001A3D1A /* EmployeesdailyViewController.m */; };
 		8718307C1E7586B3005E397F /* YMEmployeeTodayModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8718306A1E7586B3005E397F /* YMEmployeeTodayModel.m */; };
 		8718307D1E7586B3005E397F /* GFCalendarCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8718306F1E7586B3005E397F /* GFCalendarCell.m */; };
 		8718307E1E7586B3005E397F /* GFCalendarMonth.m in Sources */ = {isa = PBXBuildFile; fileRef = 871830711E7586B3005E397F /* GFCalendarMonth.m */; };
@@ -593,16 +590,10 @@
 		180BAE881E757EC800254F3F /* icon_contecon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_contecon@2x.png"; sourceTree = "<group>"; };
 		180BAE9A1E7581DB00254F3F /* PosDayCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosDayCashViewController.h; sourceTree = "<group>"; };
 		180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosDayCashViewController.m; sourceTree = "<group>"; };
-		180BAE9D1E7581DB00254F3F /* PosInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosInformationViewController.h; sourceTree = "<group>"; };
-		180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosInformationViewController.m; sourceTree = "<group>"; };
 		180BAE9F1E7581DB00254F3F /* PosVipQueryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipQueryViewController.h; sourceTree = "<group>"; };
 		180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipQueryViewController.m; sourceTree = "<group>"; };
-		180BAEA21E7581DB00254F3F /* PosOldinforViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOldinforViewController.h; sourceTree = "<group>"; };
-		180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOldinforViewController.m; sourceTree = "<group>"; };
 		180BAEA41E7581DB00254F3F /* PosOrderRefundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOrderRefundViewController.h; sourceTree = "<group>"; };
 		180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOrderRefundViewController.m; sourceTree = "<group>"; };
-		180BAEA71E7581DB00254F3F /* PosMoneyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosMoneyViewController.h; sourceTree = "<group>"; };
-		180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosMoneyViewController.m; sourceTree = "<group>"; };
 		180BAEA91E7581DB00254F3F /* PosPlanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosPlanViewController.h; sourceTree = "<group>"; };
 		180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosPlanViewController.m; sourceTree = "<group>"; };
 		180BAEAB1E7581DB00254F3F /* PosQuickCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosQuickCashViewController.h; sourceTree = "<group>"; };
@@ -631,14 +622,14 @@
 		180BAEC31E7581DB00254F3F /* PurchasehistoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PurchasehistoryViewController.m; sourceTree = "<group>"; };
 		180BAEC41E7581DB00254F3F /* SalesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SalesViewController.h; sourceTree = "<group>"; };
 		180BAEC51E7581DB00254F3F /* SalesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SalesViewController.m; sourceTree = "<group>"; };
-		180BAEC71E7581DB00254F3F /* PosAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosAboutViewController.h; sourceTree = "<group>"; };
-		180BAEC81E7581DB00254F3F /* PosAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosAboutViewController.m; sourceTree = "<group>"; };
 		180BAEC91E7581DB00254F3F /* PosSetopasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSetopasswordViewController.h; sourceTree = "<group>"; };
 		180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSetopasswordViewController.m; sourceTree = "<group>"; };
 		180BAECB1E7581DB00254F3F /* PosSystemSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSystemSetViewController.h; sourceTree = "<group>"; };
 		180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSystemSetViewController.m; sourceTree = "<group>"; };
 		180BAECE1E7581DB00254F3F /* PosVipRegistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipRegistViewController.h; sourceTree = "<group>"; };
 		180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipRegistViewController.m; sourceTree = "<group>"; };
+		1810A4951E759357001A3D1A /* EmployeesdailyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeesdailyViewController.h; sourceTree = "<group>"; };
+		1810A4961E759357001A3D1A /* EmployeesdailyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmployeesdailyViewController.m; sourceTree = "<group>"; };
 		871830691E7586B3005E397F /* YMEmployeeTodayModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMEmployeeTodayModel.h; sourceTree = "<group>"; };
 		8718306A1E7586B3005E397F /* YMEmployeeTodayModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMEmployeeTodayModel.m; sourceTree = "<group>"; };
 		8718306D1E7586B3005E397F /* GFCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFCalendar.h; sourceTree = "<group>"; };
@@ -866,14 +857,15 @@
 			children = (
 				180BA95E1E741E7600254F3F /* YMHomeViewController.h */,
 				180BA95F1E741E7600254F3F /* YMHomeViewController.m */,
+				1810A4941E759331001A3D1A /* Employeesdaily  */,
 				871830671E7586B3005E397F /* EmployeeToday */,
-				180BAE991E7581DB00254F3F /* DailyCashier  */,
-				180BAE9C1E7581DB00254F3F /* MemberQuery */,
-				180BAEA11E7581DB00254F3F /* OrderRefund  */,
-				180BAEA61E7581DB00254F3F /* QuickCashier */,
-				180BAEAD1E7581DB00254F3F /* Succession */,
-				180BAEC61E7581DB00254F3F /* SystemSet */,
-				180BAECD1E7581DB00254F3F /* VIPRegist */,
+				180BAE991E7581DB00254F3F /* Schedule */,
+				180BAE9C1E7581DB00254F3F /* Targetplan */,
+				180BAEA11E7581DB00254F3F /* Monthunfinished */,
+				180BAEA61E7581DB00254F3F /* NOsingle */,
+				180BAEAD1E7581DB00254F3F /* Basicfile */,
+				180BAEC61E7581DB00254F3F /* IncomeStatements */,
+				180BAECD1E7581DB00254F3F /* Monthfinished */,
 				180BAD011E74227F00254F3F /* Views */,
 			);
 			path = Home;
@@ -1210,51 +1202,49 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		180BAE991E7581DB00254F3F /* DailyCashier  */ = {
+		180BAE991E7581DB00254F3F /* Schedule */ = {
 			isa = PBXGroup;
 			children = (
 				180BAE9A1E7581DB00254F3F /* PosDayCashViewController.h */,
 				180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */,
 			);
+			name = Schedule;
 			path = "DailyCashier ";
 			sourceTree = "<group>";
 		};
-		180BAE9C1E7581DB00254F3F /* MemberQuery */ = {
+		180BAE9C1E7581DB00254F3F /* Targetplan */ = {
 			isa = PBXGroup;
 			children = (
-				180BAE9D1E7581DB00254F3F /* PosInformationViewController.h */,
-				180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */,
 				180BAE9F1E7581DB00254F3F /* PosVipQueryViewController.h */,
 				180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */,
 			);
+			name = Targetplan;
 			path = MemberQuery;
 			sourceTree = "<group>";
 		};
-		180BAEA11E7581DB00254F3F /* OrderRefund  */ = {
+		180BAEA11E7581DB00254F3F /* Monthunfinished */ = {
 			isa = PBXGroup;
 			children = (
-				180BAEA21E7581DB00254F3F /* PosOldinforViewController.h */,
-				180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */,
 				180BAEA41E7581DB00254F3F /* PosOrderRefundViewController.h */,
 				180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */,
 			);
+			name = Monthunfinished;
 			path = "OrderRefund ";
 			sourceTree = "<group>";
 		};
-		180BAEA61E7581DB00254F3F /* QuickCashier */ = {
+		180BAEA61E7581DB00254F3F /* NOsingle */ = {
 			isa = PBXGroup;
 			children = (
-				180BAEA71E7581DB00254F3F /* PosMoneyViewController.h */,
-				180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */,
 				180BAEA91E7581DB00254F3F /* PosPlanViewController.h */,
 				180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */,
 				180BAEAB1E7581DB00254F3F /* PosQuickCashViewController.h */,
 				180BAEAC1E7581DB00254F3F /* PosQuickCashViewController.m */,
 			);
+			name = NOsingle;
 			path = QuickCashier;
 			sourceTree = "<group>";
 		};
-		180BAEAD1E7581DB00254F3F /* Succession */ = {
+		180BAEAD1E7581DB00254F3F /* Basicfile */ = {
 			isa = PBXGroup;
 			children = (
 				180BAEAE1E7581DB00254F3F /* AccountInfoViewController.h */,
@@ -1282,29 +1272,39 @@
 				180BAEC41E7581DB00254F3F /* SalesViewController.h */,
 				180BAEC51E7581DB00254F3F /* SalesViewController.m */,
 			);
+			name = Basicfile;
 			path = Succession;
 			sourceTree = "<group>";
 		};
-		180BAEC61E7581DB00254F3F /* SystemSet */ = {
+		180BAEC61E7581DB00254F3F /* IncomeStatements */ = {
 			isa = PBXGroup;
 			children = (
-				180BAEC71E7581DB00254F3F /* PosAboutViewController.h */,
-				180BAEC81E7581DB00254F3F /* PosAboutViewController.m */,
 				180BAEC91E7581DB00254F3F /* PosSetopasswordViewController.h */,
 				180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */,
 				180BAECB1E7581DB00254F3F /* PosSystemSetViewController.h */,
 				180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */,
 			);
+			name = IncomeStatements;
 			path = SystemSet;
 			sourceTree = "<group>";
 		};
-		180BAECD1E7581DB00254F3F /* VIPRegist */ = {
+		180BAECD1E7581DB00254F3F /* Monthfinished */ = {
 			isa = PBXGroup;
 			children = (
 				180BAECE1E7581DB00254F3F /* PosVipRegistViewController.h */,
 				180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */,
 			);
+			name = Monthfinished;
 			path = VIPRegist;
+			sourceTree = "<group>";
+		};
+		1810A4941E759331001A3D1A /* Employeesdaily  */ = {
+			isa = PBXGroup;
+			children = (
+				1810A4951E759357001A3D1A /* EmployeesdailyViewController.h */,
+				1810A4961E759357001A3D1A /* EmployeesdailyViewController.m */,
+			);
+			path = "Employeesdaily ";
 			sourceTree = "<group>";
 		};
 		871830671E7586B3005E397F /* EmployeeToday */ = {
@@ -1716,13 +1716,11 @@
 				180BAD6D1E74DAC400254F3F /* POSAnimationButton.m in Sources */,
 				180BAD261E74232A00254F3F /* AFHTTPRequestOperation.m in Sources */,
 				871830AF1E7586F6005E397F /* UIButton+WebCache.m in Sources */,
-				180BAEEA1E7581DB00254F3F /* PosAboutViewController.m in Sources */,
 				871830AA1E7586F6005E397F /* SDWebImageDecoder.m in Sources */,
 				180BA9121E741D7300254F3F /* AppDelegate.m in Sources */,
 				180BAEE41E7581DB00254F3F /* OrderViewController.m in Sources */,
 				180BAEE01E7581DB00254F3F /* CustomerdetailsViewController.m in Sources */,
 				180BAEDE1E7581DB00254F3F /* AccountInfoViewController.m in Sources */,
-				180BAED71E7581DB00254F3F /* PosInformationViewController.m in Sources */,
 				8718307D1E7586B3005E397F /* GFCalendarCell.m in Sources */,
 				871830B31E7586F6005E397F /* UIImageView+HighlightedWebCache.m in Sources */,
 				180BA95A1E741E6A00254F3F /* YMScoreViewController.m in Sources */,
@@ -1738,7 +1736,6 @@
 				871830B01E7586F6005E397F /* UIImage+GIF.m in Sources */,
 				871830B51E7586F6005E397F /* UIView+WebCacheOperation.m in Sources */,
 				180BA9601E741E7600254F3F /* YMHomeViewController.m in Sources */,
-				180BAEDB1E7581DB00254F3F /* PosMoneyViewController.m in Sources */,
 				180BAEDD1E7581DB00254F3F /* PosQuickCashViewController.m in Sources */,
 				871830A81E7586F6005E397F /* SDImageCache.m in Sources */,
 				180BAD0B1E7422A000254F3F /* PosHomeHeaderView.m in Sources */,
@@ -1761,7 +1758,6 @@
 				180BAD2B1E74232A00254F3F /* AFURLConnectionOperation.m in Sources */,
 				180BAD2C1E74232A00254F3F /* AFURLRequestSerialization.m in Sources */,
 				871830AE1E7586F6005E397F /* SDWebImagePrefetcher.m in Sources */,
-				180BAED91E7581DB00254F3F /* PosOldinforViewController.m in Sources */,
 				180BAD2E1E74232A00254F3F /* AFURLSessionManager.m in Sources */,
 				871830A71E7586F6005E397F /* NSData+ImageContentType.m in Sources */,
 				180BAD2D1E74232A00254F3F /* AFURLResponseSerialization.m in Sources */,
@@ -1798,6 +1794,7 @@
 				871830801E7586B3005E397F /* GFCalendarView.m in Sources */,
 				180BAB3B1E7420E000254F3F /* Foundation+Log.m in Sources */,
 				180BAD471E74240600254F3F /* MASCompositeConstraint.m in Sources */,
+				1810A4971E759357001A3D1A /* EmployeesdailyViewController.m in Sources */,
 				180BAD0A1E7422A000254F3F /* YMHomeCollectionViewCell.m in Sources */,
 				180BADD41E74E67500254F3F /* EmployeesViewController.m in Sources */,
 				180BAD4B1E74240600254F3F /* MASViewAttribute.m in Sources */,

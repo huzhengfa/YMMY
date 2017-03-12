@@ -7,7 +7,6 @@
 //
 
 #import "PosVipQueryViewController.h"
-#import "PosInformationViewController.h"
 
 @interface PosVipQueryViewController ()<UITextFieldDelegate>{
     UITextField *phoneTF;

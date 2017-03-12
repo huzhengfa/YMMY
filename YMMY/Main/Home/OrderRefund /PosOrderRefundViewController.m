@@ -7,7 +7,6 @@
 //
 
 #import "PosOrderRefundViewController.h"
-#import "PosOldinforViewController.h"
 @interface PosOrderRefundViewController ()<UITextFieldDelegate>{
     UITextField *phoneTF;
 }

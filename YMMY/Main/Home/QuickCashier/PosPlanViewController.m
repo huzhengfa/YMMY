@@ -129,7 +129,7 @@
     [cell.contentView addSubview:nameLB];
     [nameLB mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(20);
-        make.top.mas_equalTo(0);
+        make.top.mas_equalTo(20);
         
         
     }];
@@ -164,7 +164,7 @@
     [cell.contentView addSubview:planLB2];
     [planLB2 mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(nameLB.mas_right).offset(80);
-        make.top.mas_equalTo(0);
+        make.top.mas_equalTo(20);
         
         
     }];
@@ -176,7 +176,7 @@
     [cell.contentView addSubview:okButton];
     [okButton mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(planLB2.mas_right).offset(15);
-        make.top.mas_equalTo(0);
+        make.top.mas_equalTo(20);
         
     }];
     UIButton *megesButton=[UIButton buttonWithType:UIButtonTypeCustom];
@@ -185,7 +185,7 @@
     [cell.contentView addSubview:megesButton];
     [megesButton mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(okButton.mas_right).offset(15);
-        make.top.mas_equalTo(0);
+        make.top.mas_equalTo(20);
         
     }];
 

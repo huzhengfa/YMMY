@@ -17,6 +17,7 @@
 #import "PosVipQueryViewController.h"
 #import "PosSystemSetViewController.h"
 #import "PosHandoverViewController.h"
+#import "EmployeesdailyViewController.h"
 
 @interface YMHomeViewController () <UICollectionViewDelegate,UICollectionViewDataSource>
 @property (nonatomic, strong) YMHomeCollectionView * collectionView;
@@ -140,7 +141,7 @@ static  NSString* identifier = @"homeCell";
         
         
     }else if (indexPath.item == 2){
-//        vc = [[PosActivityViewController alloc] init];
+        vc = [[EmployeesdailyViewController alloc] init];
         
     }else if (indexPath.item == 3){
         vc = [[PosVipRegistViewController alloc] init];

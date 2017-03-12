@@ -1,22 +1,22 @@
 //
-//  PosMoneyViewController.m
-//  YGJPos
+//  EmployeesdailyViewController.m
+//  YMMY
 //
-//  Created by apple on 2017/3/9.
-//  Copyright © 2017年 HD. All rights reserved.
+//  Created by apple on 2017/3/12.
+//  Copyright © 2017年 apple. All rights reserved.
 //
 
-#import "PosMoneyViewController.h"
+#import "EmployeesdailyViewController.h"
 
-@interface PosMoneyViewController ()
+@interface EmployeesdailyViewController ()
 
 @end
 
-@implementation PosMoneyViewController
+@implementation EmployeesdailyViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    [self setTitle:@"员工日报"];
 }
 
 - (void)didReceiveMemoryWarning {

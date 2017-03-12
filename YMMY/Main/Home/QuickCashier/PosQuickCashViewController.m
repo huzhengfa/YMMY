@@ -9,7 +9,6 @@
 #import "PosQuickCashViewController.h"
 #import "PosTool.h"
 #import "PosPlanViewController.h"
-#import "PosMoneyViewController.h"
 @interface PosQuickCashViewController ()<UITableViewDelegate,UITableViewDataSource>
 
 @property(nonatomic,strong)UITableView *tableView;
@@ -119,7 +118,7 @@
     [cell.contentView addSubview:numb];
     [numb mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(nameLB2.mas_right).offset(50);
-        make.top.mas_equalTo(0);
+        make.top.mas_equalTo(20);
     }];
 
     
@@ -173,12 +172,7 @@
 
 -(void)addChildViewController{
     
-    PosPlanViewController * vc1 = [[PosPlanViewController alloc]init];
-    [self addChildViewController:vc1];
-    
-    PosMoneyViewController * vc2 = [[PosMoneyViewController alloc]init];
-    [self addChildViewController:vc2];
-    
+ 
 }
 
 -(void)okClick{

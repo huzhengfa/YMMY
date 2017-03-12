@@ -8,7 +8,6 @@
 
 #import "PosSystemSetViewController.h"
 #import "PosSetopasswordViewController.h"
-#import "PosAboutViewController.h"
 @interface PosSystemSetViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic, strong) UITableView *tableView;
 
