@@ -24,6 +24,7 @@
     YMEmployeeTodayCellTableViewCell* cell = [tableView dequeueReusableCellWithIdentifier:identifier];
     if (!cell) {
         cell = [[YMEmployeeTodayCellTableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:identifier];
+        NSLog(@"123");
     }
     return cell;
 }
