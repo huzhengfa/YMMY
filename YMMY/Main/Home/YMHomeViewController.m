@@ -9,7 +9,7 @@
 #import "YMHomeCollectionView.h"
 #import "YMHomeCollectionViewCell.h"
 #import "AFNetworking.h"
-#import "PosCommdityViewController.h"
+#import "YMEmployeeTodayViewController.h"
 #import "PosQuickCashViewController.h"
 #import "PosVipRegistViewController.h"
 #import "PosOrderRefundViewController.h"
@@ -133,7 +133,7 @@ static  NSString* identifier = @"homeCell";
     UIViewController* vc = nil;
 
     if (indexPath.item == 0){
-        vc = [[PosCommdityViewController alloc] init];
+        vc = [[YMEmployeeTodayViewController alloc] init];
         
     }else if (indexPath.item == 1){
         vc = [[PosQuickCashViewController alloc] init];
