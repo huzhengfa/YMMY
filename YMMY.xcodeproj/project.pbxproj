@@ -101,44 +101,6 @@
 		180BAC6D1E7421DD00254F3F /* select2_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB8A1E7421DD00254F3F /* select2_2@2x.png */; };
 		180BAC6E1E7421DD00254F3F /* verticaliline@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB8B1E7421DD00254F3F /* verticaliline@2x.png */; };
 		180BAC6F1E7421DD00254F3F /* verticalline_line_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB8C1E7421DD00254F3F /* verticalline_line_@2x.png */; };
-		180BAC701E7421DD00254F3F /* Group 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB8E1E7421DD00254F3F /* Group 2@2x.png */; };
-		180BAC711E7421DD00254F3F /* Group 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB8F1E7421DD00254F3F /* Group 2@3x.png */; };
-		180BAC721E7421DD00254F3F /* Group 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB901E7421DD00254F3F /* Group 3@2x.png */; };
-		180BAC731E7421DD00254F3F /* Group 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB911E7421DD00254F3F /* Group 3@3x.png */; };
-		180BAC741E7421DD00254F3F /* Group 7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB921E7421DD00254F3F /* Group 7@2x.png */; };
-		180BAC751E7421DD00254F3F /* Group 7@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB931E7421DD00254F3F /* Group 7@3x.png */; };
-		180BAC761E7421DD00254F3F /* Group 8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB941E7421DD00254F3F /* Group 8@2x.png */; };
-		180BAC771E7421DD00254F3F /* Group 8@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB951E7421DD00254F3F /* Group 8@3x.png */; };
-		180BAC781E7421DD00254F3F /* Group@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB961E7421DD00254F3F /* Group@2x.png */; };
-		180BAC791E7421DD00254F3F /* Group@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB971E7421DD00254F3F /* Group@3x.png */; };
-		180BAC7A1E7421DD00254F3F /* icon_di@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB981E7421DD00254F3F /* icon_di@2x.png */; };
-		180BAC7B1E7421DD00254F3F /* icon_di@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB991E7421DD00254F3F /* icon_di@3x.png */; };
-		180BAC7C1E7421DD00254F3F /* Rectangle Copy 8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9A1E7421DD00254F3F /* Rectangle Copy 8@2x.png */; };
-		180BAC7D1E7421DD00254F3F /* Rectangle Copy 8@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9B1E7421DD00254F3F /* Rectangle Copy 8@3x.png */; };
-		180BAC7E1E7421DD00254F3F /* Shape@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9C1E7421DD00254F3F /* Shape@2x.png */; };
-		180BAC7F1E7421DD00254F3F /* Shape@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9D1E7421DD00254F3F /* Shape@3x.png */; };
-		180BAC801E7421DD00254F3F /* 公告 copy 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9E1E7421DD00254F3F /* 公告 copy 2@2x.png */; };
-		180BAC811E7421DD00254F3F /* 公告 copy 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAB9F1E7421DD00254F3F /* 公告 copy 2@3x.png */; };
-		180BAC821E7421DD00254F3F /* 公告 copy 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA01E7421DD00254F3F /* 公告 copy 3@2x.png */; };
-		180BAC831E7421DD00254F3F /* 公告 copy 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA11E7421DD00254F3F /* 公告 copy 3@3x.png */; };
-		180BAC841E7421DD00254F3F /* 公告 copy 4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA21E7421DD00254F3F /* 公告 copy 4@2x.png */; };
-		180BAC851E7421DD00254F3F /* 公告 copy 4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA31E7421DD00254F3F /* 公告 copy 4@3x.png */; };
-		180BAC861E7421DD00254F3F /* 公告 copy 5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA41E7421DD00254F3F /* 公告 copy 5@2x.png */; };
-		180BAC871E7421DD00254F3F /* 公告 copy 5@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA51E7421DD00254F3F /* 公告 copy 5@3x.png */; };
-		180BAC881E7421DD00254F3F /* 公告 copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA61E7421DD00254F3F /* 公告 copy@2x.png */; };
-		180BAC891E7421DD00254F3F /* 公告 copy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA71E7421DD00254F3F /* 公告 copy@3x.png */; };
-		180BAC8A1E7421DD00254F3F /* 公告@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA81E7421DD00254F3F /* 公告@2x.png */; };
-		180BAC8B1E7421DD00254F3F /* 公告@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABA91E7421DD00254F3F /* 公告@3x.png */; };
-		180BAC8C1E7421DD00254F3F /* 已完成@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAA1E7421DD00254F3F /* 已完成@2x.png */; };
-		180BAC8D1E7421DD00254F3F /* 已完成@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAB1E7421DD00254F3F /* 已完成@3x.png */; };
-		180BAC8E1E7421DD00254F3F /* 日期@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAC1E7421DD00254F3F /* 日期@2x.png */; };
-		180BAC8F1E7421DD00254F3F /* 日期@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAD1E7421DD00254F3F /* 日期@3x.png */; };
-		180BAC901E7421DD00254F3F /* 时间(1) copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAE1E7421DD00254F3F /* 时间(1) copy@2x.png */; };
-		180BAC911E7421DD00254F3F /* 时间(1) copy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABAF1E7421DD00254F3F /* 时间(1) copy@3x.png */; };
-		180BAC921E7421DD00254F3F /* 电话 copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB01E7421DD00254F3F /* 电话 copy@2x.png */; };
-		180BAC931E7421DD00254F3F /* 电话 copy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB11E7421DD00254F3F /* 电话 copy@3x.png */; };
-		180BAC941E7421DD00254F3F /* 钱-4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB21E7421DD00254F3F /* 钱-4@2x.png */; };
-		180BAC951E7421DD00254F3F /* 钱-4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB31E7421DD00254F3F /* 钱-4@3x.png */; };
 		180BAC961E7421DD00254F3F /* 24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB51E7421DD00254F3F /* 24@2x.png */; };
 		180BAC971E7421DD00254F3F /* 24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB61E7421DD00254F3F /* 24@3x.png */; };
 		180BAC981E7421DD00254F3F /* Group 10@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BABB71E7421DD00254F3F /* Group 10@2x.png */; };
@@ -238,14 +200,6 @@
 		180BACF61E7421DD00254F3F /* icon_yinlian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC181E7421DD00254F3F /* icon_yinlian@3x.png */; };
 		180BACF71E7421DD00254F3F /* select1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC191E7421DD00254F3F /* select1@2x.png */; };
 		180BACF81E7421DD00254F3F /* select2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC1A1E7421DD00254F3F /* select2@2x.png */; };
-		180BACF91E7421DD00254F3F /* btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC1C1E7421DD00254F3F /* btn.png */; };
-		180BACFA1E7421DD00254F3F /* btn_photo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC1D1E7421DD00254F3F /* btn_photo@2x.png */; };
-		180BACFB1E7421DD00254F3F /* icon1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC1E1E7421DD00254F3F /* icon1@2x.png */; };
-		180BACFC1E7421DD00254F3F /* icon2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC1F1E7421DD00254F3F /* icon2@2x.png */; };
-		180BACFD1E7421DD00254F3F /* icon3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC201E7421DD00254F3F /* icon3@2x.png */; };
-		180BACFE1E7421DD00254F3F /* icon4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC211E7421DD00254F3F /* icon4@2x.png */; };
-		180BACFF1E7421DD00254F3F /* icon5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC221E7421DD00254F3F /* icon5@2x.png */; };
-		180BAD001E7421DD00254F3F /* icon6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAC231E7421DD00254F3F /* icon6@2x.png */; };
 		180BAD041E74228D00254F3F /* YMHomeCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD031E74228D00254F3F /* YMHomeCollectionView.m */; };
 		180BAD0A1E7422A000254F3F /* YMHomeCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD061E7422A000254F3F /* YMHomeCollectionViewCell.m */; };
 		180BAD0B1E7422A000254F3F /* PosHomeHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD081E7422A000254F3F /* PosHomeHeaderView.m */; };
@@ -279,32 +233,6 @@
 		180BAD6E1E74DAC400254F3F /* POSCircleAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD671E74DAC400254F3F /* POSCircleAnimationView.m */; };
 		180BAD6F1E74DAC400254F3F /* PosLoginInputView.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD691E74DAC400254F3F /* PosLoginInputView.m */; };
 		180BAD721E74DC4B00254F3F /* PosBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD711E74DC4B00254F3F /* PosBaseView.m */; };
-		180BAD7A1E74E0B200254F3F /* PosAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD741E74E0B200254F3F /* PosAboutViewController.m */; };
-		180BAD7B1E74E0B200254F3F /* PosSetopasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD771E74E0B200254F3F /* PosSetopasswordViewController.m */; };
-		180BAD7C1E74E0B200254F3F /* PosSystemSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD781E74E0B200254F3F /* PosSystemSetViewController.m */; };
-		180BADB31E74E0BE00254F3F /* PosQuickCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD7E1E74E0BE00254F3F /* PosQuickCashViewController.m */; };
-		180BADB41E74E0BE00254F3F /* PosPlanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD801E74E0BE00254F3F /* PosPlanViewController.m */; };
-		180BADB51E74E0BE00254F3F /* PosMoneyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD821E74E0BE00254F3F /* PosMoneyViewController.m */; };
-		180BADB61E74E0BE00254F3F /* PosOldinforViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD851E74E0BE00254F3F /* PosOldinforViewController.m */; };
-		180BADB71E74E0BE00254F3F /* PosOrderRefundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD871E74E0BE00254F3F /* PosOrderRefundViewController.m */; };
-		180BADB81E74E0BE00254F3F /* PosInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD8A1E74E0BE00254F3F /* PosInformationViewController.m */; };
-		180BADB91E74E0BE00254F3F /* PosVipQueryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD8C1E74E0BE00254F3F /* PosVipQueryViewController.m */; };
-		180BADBA1E74E0BE00254F3F /* PosDayCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD8F1E74E0BE00254F3F /* PosDayCashViewController.m */; };
-		180BADBB1E74E0BE00254F3F /* PosCommdityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD921E74E0BE00254F3F /* PosCommdityViewController.m */; };
-		180BADBC1E74E0BE00254F3F /* PosHandoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD951E74E0BE00254F3F /* PosHandoverViewController.m */; };
-		180BADBD1E74E0BE00254F3F /* CustomerdetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD971E74E0BE00254F3F /* CustomerdetailsViewController.m */; };
-		180BADBE1E74E0BE00254F3F /* AccountInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD991E74E0BE00254F3F /* AccountInfoViewController.m */; };
-		180BADBF1E74E0BE00254F3F /* BasicfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD9B1E74E0BE00254F3F /* BasicfileViewController.m */; };
-		180BADC01E74E0BE00254F3F /* PurchasehistoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD9D1E74E0BE00254F3F /* PurchasehistoryViewController.m */; };
-		180BADC11E74E0BE00254F3F /* OrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAD9F1E74E0BE00254F3F /* OrderViewController.m */; };
-		180BADC21E74E0BE00254F3F /* NursingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADA11E74E0BE00254F3F /* NursingViewController.m */; };
-		180BADC31E74E0BE00254F3F /* PosActivityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADA31E74E0BE00254F3F /* PosActivityViewController.m */; };
-		180BADC41E74E0BE00254F3F /* SalesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADA41E74E0BE00254F3F /* SalesViewController.m */; };
-		180BADC51E74E0BE00254F3F /* PrivacyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADA61E74E0BE00254F3F /* PrivacyViewController.m */; };
-		180BADC61E74E0BE00254F3F /* PrvacylifeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADA81E74E0BE00254F3F /* PrvacylifeViewController.m */; };
-		180BADC71E74E0BE00254F3F /* DateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADAA1E74E0BE00254F3F /* DateViewController.m */; };
-		180BADC81E74E0BE00254F3F /* ManagementViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADAC1E74E0BE00254F3F /* ManagementViewController.m */; };
-		180BADC91E74E0BE00254F3F /* PosVipRegistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADAF1E74E0BE00254F3F /* PosVipRegistViewController.m */; };
 		180BADD31E74E67500254F3F /* StoresinformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADCD1E74E67500254F3F /* StoresinformationViewController.m */; };
 		180BADD41E74E67500254F3F /* EmployeesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADCF1E74E67500254F3F /* EmployeesViewController.m */; };
 		180BADD51E74E67500254F3F /* MybillViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BADD11E74E67500254F3F /* MybillViewController.m */; };
@@ -332,6 +260,31 @@
 		180BAE861E7571B900254F3F /* icon_line@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAE841E7571B900254F3F /* icon_line@3x.png */; };
 		180BAE891E757EC800254F3F /* icon_contecon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAE871E757EC800254F3F /* icon_contecon@3x.png */; };
 		180BAE8A1E757EC800254F3F /* icon_contecon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 180BAE881E757EC800254F3F /* icon_contecon@2x.png */; };
+		180BAED51E7581DB00254F3F /* PosCommdityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAE981E7581DB00254F3F /* PosCommdityViewController.m */; };
+		180BAED61E7581DB00254F3F /* PosDayCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */; };
+		180BAED71E7581DB00254F3F /* PosInformationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */; };
+		180BAED81E7581DB00254F3F /* PosVipQueryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */; };
+		180BAED91E7581DB00254F3F /* PosOldinforViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */; };
+		180BAEDA1E7581DB00254F3F /* PosOrderRefundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */; };
+		180BAEDB1E7581DB00254F3F /* PosMoneyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */; };
+		180BAEDC1E7581DB00254F3F /* PosPlanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */; };
+		180BAEDD1E7581DB00254F3F /* PosQuickCashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAC1E7581DB00254F3F /* PosQuickCashViewController.m */; };
+		180BAEDE1E7581DB00254F3F /* AccountInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEAF1E7581DB00254F3F /* AccountInfoViewController.m */; };
+		180BAEDF1E7581DB00254F3F /* BasicfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEB11E7581DB00254F3F /* BasicfileViewController.m */; };
+		180BAEE01E7581DB00254F3F /* CustomerdetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEB31E7581DB00254F3F /* CustomerdetailsViewController.m */; };
+		180BAEE11E7581DB00254F3F /* DateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEB51E7581DB00254F3F /* DateViewController.m */; };
+		180BAEE21E7581DB00254F3F /* ManagementViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEB71E7581DB00254F3F /* ManagementViewController.m */; };
+		180BAEE31E7581DB00254F3F /* NursingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEB91E7581DB00254F3F /* NursingViewController.m */; };
+		180BAEE41E7581DB00254F3F /* OrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEBB1E7581DB00254F3F /* OrderViewController.m */; };
+		180BAEE51E7581DB00254F3F /* PosHandoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEBD1E7581DB00254F3F /* PosHandoverViewController.m */; };
+		180BAEE61E7581DB00254F3F /* PrivacyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEBF1E7581DB00254F3F /* PrivacyViewController.m */; };
+		180BAEE71E7581DB00254F3F /* PrvacylifeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC11E7581DB00254F3F /* PrvacylifeViewController.m */; };
+		180BAEE81E7581DB00254F3F /* PurchasehistoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC31E7581DB00254F3F /* PurchasehistoryViewController.m */; };
+		180BAEE91E7581DB00254F3F /* SalesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC51E7581DB00254F3F /* SalesViewController.m */; };
+		180BAEEA1E7581DB00254F3F /* PosAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAEC81E7581DB00254F3F /* PosAboutViewController.m */; };
+		180BAEEB1E7581DB00254F3F /* PosSetopasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */; };
+		180BAEEC1E7581DB00254F3F /* PosSystemSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */; };
+		180BAEED1E7581DB00254F3F /* PosVipRegistViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -465,44 +418,6 @@
 		180BAB8A1E7421DD00254F3F /* select2_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select2_2@2x.png"; sourceTree = "<group>"; };
 		180BAB8B1E7421DD00254F3F /* verticaliline@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "verticaliline@2x.png"; sourceTree = "<group>"; };
 		180BAB8C1E7421DD00254F3F /* verticalline_line_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "verticalline_line_@2x.png"; sourceTree = "<group>"; };
-		180BAB8E1E7421DD00254F3F /* Group 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2@2x.png"; sourceTree = "<group>"; };
-		180BAB8F1E7421DD00254F3F /* Group 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 2@3x.png"; sourceTree = "<group>"; };
-		180BAB901E7421DD00254F3F /* Group 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 3@2x.png"; sourceTree = "<group>"; };
-		180BAB911E7421DD00254F3F /* Group 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 3@3x.png"; sourceTree = "<group>"; };
-		180BAB921E7421DD00254F3F /* Group 7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 7@2x.png"; sourceTree = "<group>"; };
-		180BAB931E7421DD00254F3F /* Group 7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 7@3x.png"; sourceTree = "<group>"; };
-		180BAB941E7421DD00254F3F /* Group 8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 8@2x.png"; sourceTree = "<group>"; };
-		180BAB951E7421DD00254F3F /* Group 8@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 8@3x.png"; sourceTree = "<group>"; };
-		180BAB961E7421DD00254F3F /* Group@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group@2x.png"; sourceTree = "<group>"; };
-		180BAB971E7421DD00254F3F /* Group@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group@3x.png"; sourceTree = "<group>"; };
-		180BAB981E7421DD00254F3F /* icon_di@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_di@2x.png"; sourceTree = "<group>"; };
-		180BAB991E7421DD00254F3F /* icon_di@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_di@3x.png"; sourceTree = "<group>"; };
-		180BAB9A1E7421DD00254F3F /* Rectangle Copy 8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle Copy 8@2x.png"; sourceTree = "<group>"; };
-		180BAB9B1E7421DD00254F3F /* Rectangle Copy 8@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle Copy 8@3x.png"; sourceTree = "<group>"; };
-		180BAB9C1E7421DD00254F3F /* Shape@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shape@2x.png"; sourceTree = "<group>"; };
-		180BAB9D1E7421DD00254F3F /* Shape@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shape@3x.png"; sourceTree = "<group>"; };
-		180BAB9E1E7421DD00254F3F /* 公告 copy 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 2@2x.png"; sourceTree = "<group>"; };
-		180BAB9F1E7421DD00254F3F /* 公告 copy 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 2@3x.png"; sourceTree = "<group>"; };
-		180BABA01E7421DD00254F3F /* 公告 copy 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 3@2x.png"; sourceTree = "<group>"; };
-		180BABA11E7421DD00254F3F /* 公告 copy 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 3@3x.png"; sourceTree = "<group>"; };
-		180BABA21E7421DD00254F3F /* 公告 copy 4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 4@2x.png"; sourceTree = "<group>"; };
-		180BABA31E7421DD00254F3F /* 公告 copy 4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 4@3x.png"; sourceTree = "<group>"; };
-		180BABA41E7421DD00254F3F /* 公告 copy 5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 5@2x.png"; sourceTree = "<group>"; };
-		180BABA51E7421DD00254F3F /* 公告 copy 5@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy 5@3x.png"; sourceTree = "<group>"; };
-		180BABA61E7421DD00254F3F /* 公告 copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy@2x.png"; sourceTree = "<group>"; };
-		180BABA71E7421DD00254F3F /* 公告 copy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告 copy@3x.png"; sourceTree = "<group>"; };
-		180BABA81E7421DD00254F3F /* 公告@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告@2x.png"; sourceTree = "<group>"; };
-		180BABA91E7421DD00254F3F /* 公告@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "公告@3x.png"; sourceTree = "<group>"; };
-		180BABAA1E7421DD00254F3F /* 已完成@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "已完成@2x.png"; sourceTree = "<group>"; };
-		180BABAB1E7421DD00254F3F /* 已完成@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "已完成@3x.png"; sourceTree = "<group>"; };
-		180BABAC1E7421DD00254F3F /* 日期@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日期@2x.png"; sourceTree = "<group>"; };
-		180BABAD1E7421DD00254F3F /* 日期@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日期@3x.png"; sourceTree = "<group>"; };
-		180BABAE1E7421DD00254F3F /* 时间(1) copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "时间(1) copy@2x.png"; sourceTree = "<group>"; };
-		180BABAF1E7421DD00254F3F /* 时间(1) copy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "时间(1) copy@3x.png"; sourceTree = "<group>"; };
-		180BABB01E7421DD00254F3F /* 电话 copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "电话 copy@2x.png"; sourceTree = "<group>"; };
-		180BABB11E7421DD00254F3F /* 电话 copy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "电话 copy@3x.png"; sourceTree = "<group>"; };
-		180BABB21E7421DD00254F3F /* 钱-4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "钱-4@2x.png"; sourceTree = "<group>"; };
-		180BABB31E7421DD00254F3F /* 钱-4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "钱-4@3x.png"; sourceTree = "<group>"; };
 		180BABB51E7421DD00254F3F /* 24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "24@2x.png"; sourceTree = "<group>"; };
 		180BABB61E7421DD00254F3F /* 24@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "24@3x.png"; sourceTree = "<group>"; };
 		180BABB71E7421DD00254F3F /* Group 10@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 10@2x.png"; sourceTree = "<group>"; };
@@ -602,14 +517,6 @@
 		180BAC181E7421DD00254F3F /* icon_yinlian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_yinlian@3x.png"; sourceTree = "<group>"; };
 		180BAC191E7421DD00254F3F /* select1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select1@2x.png"; sourceTree = "<group>"; };
 		180BAC1A1E7421DD00254F3F /* select2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "select2@2x.png"; sourceTree = "<group>"; };
-		180BAC1C1E7421DD00254F3F /* btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn.png; sourceTree = "<group>"; };
-		180BAC1D1E7421DD00254F3F /* btn_photo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn_photo@2x.png"; sourceTree = "<group>"; };
-		180BAC1E1E7421DD00254F3F /* icon1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon1@2x.png"; sourceTree = "<group>"; };
-		180BAC1F1E7421DD00254F3F /* icon2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon2@2x.png"; sourceTree = "<group>"; };
-		180BAC201E7421DD00254F3F /* icon3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon3@2x.png"; sourceTree = "<group>"; };
-		180BAC211E7421DD00254F3F /* icon4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon4@2x.png"; sourceTree = "<group>"; };
-		180BAC221E7421DD00254F3F /* icon5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon5@2x.png"; sourceTree = "<group>"; };
-		180BAC231E7421DD00254F3F /* icon6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon6@2x.png"; sourceTree = "<group>"; };
 		180BAD021E74228D00254F3F /* YMHomeCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMHomeCollectionView.h; sourceTree = "<group>"; };
 		180BAD031E74228D00254F3F /* YMHomeCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMHomeCollectionView.m; sourceTree = "<group>"; };
 		180BAD051E7422A000254F3F /* YMHomeCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMHomeCollectionViewCell.h; sourceTree = "<group>"; };
@@ -675,58 +582,6 @@
 		180BAD691E74DAC400254F3F /* PosLoginInputView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosLoginInputView.m; sourceTree = "<group>"; };
 		180BAD701E74DC4B00254F3F /* PosBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosBaseView.h; sourceTree = "<group>"; };
 		180BAD711E74DC4B00254F3F /* PosBaseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosBaseView.m; sourceTree = "<group>"; };
-		180BAD731E74E0B200254F3F /* PosAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosAboutViewController.h; sourceTree = "<group>"; };
-		180BAD741E74E0B200254F3F /* PosAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosAboutViewController.m; sourceTree = "<group>"; };
-		180BAD751E74E0B200254F3F /* PosSystemSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSystemSetViewController.h; sourceTree = "<group>"; };
-		180BAD761E74E0B200254F3F /* PosSetopasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSetopasswordViewController.h; sourceTree = "<group>"; };
-		180BAD771E74E0B200254F3F /* PosSetopasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSetopasswordViewController.m; sourceTree = "<group>"; };
-		180BAD781E74E0B200254F3F /* PosSystemSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSystemSetViewController.m; sourceTree = "<group>"; };
-		180BAD7D1E74E0BE00254F3F /* PosQuickCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosQuickCashViewController.h; sourceTree = "<group>"; };
-		180BAD7E1E74E0BE00254F3F /* PosQuickCashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosQuickCashViewController.m; sourceTree = "<group>"; };
-		180BAD7F1E74E0BE00254F3F /* PosPlanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosPlanViewController.h; sourceTree = "<group>"; };
-		180BAD801E74E0BE00254F3F /* PosPlanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosPlanViewController.m; sourceTree = "<group>"; };
-		180BAD811E74E0BE00254F3F /* PosMoneyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosMoneyViewController.h; sourceTree = "<group>"; };
-		180BAD821E74E0BE00254F3F /* PosMoneyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosMoneyViewController.m; sourceTree = "<group>"; };
-		180BAD841E74E0BE00254F3F /* PosOldinforViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOldinforViewController.h; sourceTree = "<group>"; };
-		180BAD851E74E0BE00254F3F /* PosOldinforViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOldinforViewController.m; sourceTree = "<group>"; };
-		180BAD861E74E0BE00254F3F /* PosOrderRefundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOrderRefundViewController.h; sourceTree = "<group>"; };
-		180BAD871E74E0BE00254F3F /* PosOrderRefundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOrderRefundViewController.m; sourceTree = "<group>"; };
-		180BAD891E74E0BE00254F3F /* PosInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosInformationViewController.h; sourceTree = "<group>"; };
-		180BAD8A1E74E0BE00254F3F /* PosInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosInformationViewController.m; sourceTree = "<group>"; };
-		180BAD8B1E74E0BE00254F3F /* PosVipQueryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipQueryViewController.h; sourceTree = "<group>"; };
-		180BAD8C1E74E0BE00254F3F /* PosVipQueryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipQueryViewController.m; sourceTree = "<group>"; };
-		180BAD8E1E74E0BE00254F3F /* PosDayCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosDayCashViewController.h; sourceTree = "<group>"; };
-		180BAD8F1E74E0BE00254F3F /* PosDayCashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosDayCashViewController.m; sourceTree = "<group>"; };
-		180BAD911E74E0BE00254F3F /* PosCommdityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosCommdityViewController.h; sourceTree = "<group>"; };
-		180BAD921E74E0BE00254F3F /* PosCommdityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosCommdityViewController.m; sourceTree = "<group>"; };
-		180BAD941E74E0BE00254F3F /* PosHandoverViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosHandoverViewController.h; sourceTree = "<group>"; };
-		180BAD951E74E0BE00254F3F /* PosHandoverViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosHandoverViewController.m; sourceTree = "<group>"; };
-		180BAD961E74E0BE00254F3F /* CustomerdetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomerdetailsViewController.h; sourceTree = "<group>"; };
-		180BAD971E74E0BE00254F3F /* CustomerdetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomerdetailsViewController.m; sourceTree = "<group>"; };
-		180BAD981E74E0BE00254F3F /* AccountInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccountInfoViewController.h; sourceTree = "<group>"; };
-		180BAD991E74E0BE00254F3F /* AccountInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccountInfoViewController.m; sourceTree = "<group>"; };
-		180BAD9A1E74E0BE00254F3F /* BasicfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicfileViewController.h; sourceTree = "<group>"; };
-		180BAD9B1E74E0BE00254F3F /* BasicfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicfileViewController.m; sourceTree = "<group>"; };
-		180BAD9C1E74E0BE00254F3F /* PurchasehistoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PurchasehistoryViewController.h; sourceTree = "<group>"; };
-		180BAD9D1E74E0BE00254F3F /* PurchasehistoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PurchasehistoryViewController.m; sourceTree = "<group>"; };
-		180BAD9E1E74E0BE00254F3F /* OrderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderViewController.h; sourceTree = "<group>"; };
-		180BAD9F1E74E0BE00254F3F /* OrderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderViewController.m; sourceTree = "<group>"; };
-		180BADA01E74E0BE00254F3F /* NursingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NursingViewController.h; sourceTree = "<group>"; };
-		180BADA11E74E0BE00254F3F /* NursingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NursingViewController.m; sourceTree = "<group>"; };
-		180BADA21E74E0BE00254F3F /* SalesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SalesViewController.h; sourceTree = "<group>"; };
-		180BADA31E74E0BE00254F3F /* PosActivityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PosActivityViewController.m; path = "../Activity platform /PosActivityViewController.m"; sourceTree = "<group>"; };
-		180BADA41E74E0BE00254F3F /* SalesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SalesViewController.m; sourceTree = "<group>"; };
-		180BADA51E74E0BE00254F3F /* PrivacyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrivacyViewController.h; sourceTree = "<group>"; };
-		180BADA61E74E0BE00254F3F /* PrivacyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrivacyViewController.m; sourceTree = "<group>"; };
-		180BADA71E74E0BE00254F3F /* PrvacylifeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrvacylifeViewController.h; sourceTree = "<group>"; };
-		180BADA81E74E0BE00254F3F /* PrvacylifeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrvacylifeViewController.m; sourceTree = "<group>"; };
-		180BADA91E74E0BE00254F3F /* DateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateViewController.h; sourceTree = "<group>"; };
-		180BADAA1E74E0BE00254F3F /* DateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateViewController.m; sourceTree = "<group>"; };
-		180BADAB1E74E0BE00254F3F /* ManagementViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManagementViewController.h; sourceTree = "<group>"; };
-		180BADAC1E74E0BE00254F3F /* ManagementViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManagementViewController.m; sourceTree = "<group>"; };
-		180BADAE1E74E0BE00254F3F /* PosVipRegistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipRegistViewController.h; sourceTree = "<group>"; };
-		180BADAF1E74E0BE00254F3F /* PosVipRegistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipRegistViewController.m; sourceTree = "<group>"; };
-		180BADB11E74E0BE00254F3F /* PosActivityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosActivityViewController.h; sourceTree = "<group>"; };
 		180BADCC1E74E67500254F3F /* StoresinformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoresinformationViewController.h; sourceTree = "<group>"; };
 		180BADCD1E74E67500254F3F /* StoresinformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoresinformationViewController.m; sourceTree = "<group>"; };
 		180BADCE1E74E67500254F3F /* EmployeesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmployeesViewController.h; sourceTree = "<group>"; };
@@ -761,6 +616,56 @@
 		180BAE841E7571B900254F3F /* icon_line@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_line@3x.png"; sourceTree = "<group>"; };
 		180BAE871E757EC800254F3F /* icon_contecon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_contecon@3x.png"; sourceTree = "<group>"; };
 		180BAE881E757EC800254F3F /* icon_contecon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_contecon@2x.png"; sourceTree = "<group>"; };
+		180BAE971E7581DB00254F3F /* PosCommdityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosCommdityViewController.h; sourceTree = "<group>"; };
+		180BAE981E7581DB00254F3F /* PosCommdityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosCommdityViewController.m; sourceTree = "<group>"; };
+		180BAE9A1E7581DB00254F3F /* PosDayCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosDayCashViewController.h; sourceTree = "<group>"; };
+		180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosDayCashViewController.m; sourceTree = "<group>"; };
+		180BAE9D1E7581DB00254F3F /* PosInformationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosInformationViewController.h; sourceTree = "<group>"; };
+		180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosInformationViewController.m; sourceTree = "<group>"; };
+		180BAE9F1E7581DB00254F3F /* PosVipQueryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipQueryViewController.h; sourceTree = "<group>"; };
+		180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipQueryViewController.m; sourceTree = "<group>"; };
+		180BAEA21E7581DB00254F3F /* PosOldinforViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOldinforViewController.h; sourceTree = "<group>"; };
+		180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOldinforViewController.m; sourceTree = "<group>"; };
+		180BAEA41E7581DB00254F3F /* PosOrderRefundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosOrderRefundViewController.h; sourceTree = "<group>"; };
+		180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosOrderRefundViewController.m; sourceTree = "<group>"; };
+		180BAEA71E7581DB00254F3F /* PosMoneyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosMoneyViewController.h; sourceTree = "<group>"; };
+		180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosMoneyViewController.m; sourceTree = "<group>"; };
+		180BAEA91E7581DB00254F3F /* PosPlanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosPlanViewController.h; sourceTree = "<group>"; };
+		180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosPlanViewController.m; sourceTree = "<group>"; };
+		180BAEAB1E7581DB00254F3F /* PosQuickCashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosQuickCashViewController.h; sourceTree = "<group>"; };
+		180BAEAC1E7581DB00254F3F /* PosQuickCashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosQuickCashViewController.m; sourceTree = "<group>"; };
+		180BAEAE1E7581DB00254F3F /* AccountInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccountInfoViewController.h; sourceTree = "<group>"; };
+		180BAEAF1E7581DB00254F3F /* AccountInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccountInfoViewController.m; sourceTree = "<group>"; };
+		180BAEB01E7581DB00254F3F /* BasicfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicfileViewController.h; sourceTree = "<group>"; };
+		180BAEB11E7581DB00254F3F /* BasicfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicfileViewController.m; sourceTree = "<group>"; };
+		180BAEB21E7581DB00254F3F /* CustomerdetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomerdetailsViewController.h; sourceTree = "<group>"; };
+		180BAEB31E7581DB00254F3F /* CustomerdetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomerdetailsViewController.m; sourceTree = "<group>"; };
+		180BAEB41E7581DB00254F3F /* DateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateViewController.h; sourceTree = "<group>"; };
+		180BAEB51E7581DB00254F3F /* DateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DateViewController.m; sourceTree = "<group>"; };
+		180BAEB61E7581DB00254F3F /* ManagementViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManagementViewController.h; sourceTree = "<group>"; };
+		180BAEB71E7581DB00254F3F /* ManagementViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManagementViewController.m; sourceTree = "<group>"; };
+		180BAEB81E7581DB00254F3F /* NursingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NursingViewController.h; sourceTree = "<group>"; };
+		180BAEB91E7581DB00254F3F /* NursingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NursingViewController.m; sourceTree = "<group>"; };
+		180BAEBA1E7581DB00254F3F /* OrderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderViewController.h; sourceTree = "<group>"; };
+		180BAEBB1E7581DB00254F3F /* OrderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderViewController.m; sourceTree = "<group>"; };
+		180BAEBC1E7581DB00254F3F /* PosHandoverViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosHandoverViewController.h; sourceTree = "<group>"; };
+		180BAEBD1E7581DB00254F3F /* PosHandoverViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosHandoverViewController.m; sourceTree = "<group>"; };
+		180BAEBE1E7581DB00254F3F /* PrivacyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrivacyViewController.h; sourceTree = "<group>"; };
+		180BAEBF1E7581DB00254F3F /* PrivacyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrivacyViewController.m; sourceTree = "<group>"; };
+		180BAEC01E7581DB00254F3F /* PrvacylifeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrvacylifeViewController.h; sourceTree = "<group>"; };
+		180BAEC11E7581DB00254F3F /* PrvacylifeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrvacylifeViewController.m; sourceTree = "<group>"; };
+		180BAEC21E7581DB00254F3F /* PurchasehistoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PurchasehistoryViewController.h; sourceTree = "<group>"; };
+		180BAEC31E7581DB00254F3F /* PurchasehistoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PurchasehistoryViewController.m; sourceTree = "<group>"; };
+		180BAEC41E7581DB00254F3F /* SalesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SalesViewController.h; sourceTree = "<group>"; };
+		180BAEC51E7581DB00254F3F /* SalesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SalesViewController.m; sourceTree = "<group>"; };
+		180BAEC71E7581DB00254F3F /* PosAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosAboutViewController.h; sourceTree = "<group>"; };
+		180BAEC81E7581DB00254F3F /* PosAboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosAboutViewController.m; sourceTree = "<group>"; };
+		180BAEC91E7581DB00254F3F /* PosSetopasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSetopasswordViewController.h; sourceTree = "<group>"; };
+		180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSetopasswordViewController.m; sourceTree = "<group>"; };
+		180BAECB1E7581DB00254F3F /* PosSystemSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosSystemSetViewController.h; sourceTree = "<group>"; };
+		180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosSystemSetViewController.m; sourceTree = "<group>"; };
+		180BAECE1E7581DB00254F3F /* PosVipRegistViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PosVipRegistViewController.h; sourceTree = "<group>"; };
+		180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PosVipRegistViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -938,15 +843,14 @@
 			children = (
 				180BA95E1E741E7600254F3F /* YMHomeViewController.h */,
 				180BA95F1E741E7600254F3F /* YMHomeViewController.m */,
-				180BAD831E74E0BE00254F3F /* 今年0单员工 */,
-				180BAD881E74E0BE00254F3F /* 本月未完成 */,
-				180BAD8D1E74E0BE00254F3F /* 目标计划 */,
-				180BAD901E74E0BE00254F3F /* 本店日程 */,
-				180BAD931E74E0BE00254F3F /* 今日上班员工 */,
-				180BADAD1E74E0BE00254F3F /* 档案管理 */,
-				180BADB01E74E0BE00254F3F /* 本月已完成 */,
-				180BADB21E74E0BE00254F3F /* 员工日报 */,
-				180BAD791E74E0B200254F3F /* 收入报表 */,
+				180BAE961E7581DB00254F3F /* Commodity */,
+				180BAE991E7581DB00254F3F /* DailyCashier  */,
+				180BAE9C1E7581DB00254F3F /* MemberQuery */,
+				180BAEA11E7581DB00254F3F /* OrderRefund  */,
+				180BAEA61E7581DB00254F3F /* QuickCashier */,
+				180BAEAD1E7581DB00254F3F /* Succession */,
+				180BAEC61E7581DB00254F3F /* SystemSet */,
+				180BAECD1E7581DB00254F3F /* VIPRegist */,
 				180BAD011E74227F00254F3F /* Views */,
 			);
 			path = Home;
@@ -970,7 +874,6 @@
 			isa = PBXGroup;
 			children = (
 				180BAB401E7421DC00254F3F /* Commdity */,
-				180BAB8D1E7421DD00254F3F /* dh */,
 				180BABB41E7421DD00254F3F /* gg */,
 				180BABD71E7421DD00254F3F /* Home */,
 				180BABF01E7421DD00254F3F /* icon_back@2x.png */,
@@ -978,7 +881,6 @@
 				180BAC051E7421DD00254F3F /* qietu */,
 				180BAC191E7421DD00254F3F /* select1@2x.png */,
 				180BAC1A1E7421DD00254F3F /* select2@2x.png */,
-				180BAC1B1E7421DD00254F3F /* vip */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -1076,51 +978,6 @@
 				180BAB8C1E7421DD00254F3F /* verticalline_line_@2x.png */,
 			);
 			path = Commdity;
-			sourceTree = "<group>";
-		};
-		180BAB8D1E7421DD00254F3F /* dh */ = {
-			isa = PBXGroup;
-			children = (
-				180BAB8E1E7421DD00254F3F /* Group 2@2x.png */,
-				180BAB8F1E7421DD00254F3F /* Group 2@3x.png */,
-				180BAB901E7421DD00254F3F /* Group 3@2x.png */,
-				180BAB911E7421DD00254F3F /* Group 3@3x.png */,
-				180BAB921E7421DD00254F3F /* Group 7@2x.png */,
-				180BAB931E7421DD00254F3F /* Group 7@3x.png */,
-				180BAB941E7421DD00254F3F /* Group 8@2x.png */,
-				180BAB951E7421DD00254F3F /* Group 8@3x.png */,
-				180BAB961E7421DD00254F3F /* Group@2x.png */,
-				180BAB971E7421DD00254F3F /* Group@3x.png */,
-				180BAB981E7421DD00254F3F /* icon_di@2x.png */,
-				180BAB991E7421DD00254F3F /* icon_di@3x.png */,
-				180BAB9A1E7421DD00254F3F /* Rectangle Copy 8@2x.png */,
-				180BAB9B1E7421DD00254F3F /* Rectangle Copy 8@3x.png */,
-				180BAB9C1E7421DD00254F3F /* Shape@2x.png */,
-				180BAB9D1E7421DD00254F3F /* Shape@3x.png */,
-				180BAB9E1E7421DD00254F3F /* 公告 copy 2@2x.png */,
-				180BAB9F1E7421DD00254F3F /* 公告 copy 2@3x.png */,
-				180BABA01E7421DD00254F3F /* 公告 copy 3@2x.png */,
-				180BABA11E7421DD00254F3F /* 公告 copy 3@3x.png */,
-				180BABA21E7421DD00254F3F /* 公告 copy 4@2x.png */,
-				180BABA31E7421DD00254F3F /* 公告 copy 4@3x.png */,
-				180BABA41E7421DD00254F3F /* 公告 copy 5@2x.png */,
-				180BABA51E7421DD00254F3F /* 公告 copy 5@3x.png */,
-				180BABA61E7421DD00254F3F /* 公告 copy@2x.png */,
-				180BABA71E7421DD00254F3F /* 公告 copy@3x.png */,
-				180BABA81E7421DD00254F3F /* 公告@2x.png */,
-				180BABA91E7421DD00254F3F /* 公告@3x.png */,
-				180BABAA1E7421DD00254F3F /* 已完成@2x.png */,
-				180BABAB1E7421DD00254F3F /* 已完成@3x.png */,
-				180BABAC1E7421DD00254F3F /* 日期@2x.png */,
-				180BABAD1E7421DD00254F3F /* 日期@3x.png */,
-				180BABAE1E7421DD00254F3F /* 时间(1) copy@2x.png */,
-				180BABAF1E7421DD00254F3F /* 时间(1) copy@3x.png */,
-				180BABB01E7421DD00254F3F /* 电话 copy@2x.png */,
-				180BABB11E7421DD00254F3F /* 电话 copy@3x.png */,
-				180BABB21E7421DD00254F3F /* 钱-4@2x.png */,
-				180BABB31E7421DD00254F3F /* 钱-4@3x.png */,
-			);
-			path = dh;
 			sourceTree = "<group>";
 		};
 		180BABB41E7421DD00254F3F /* gg */ = {
@@ -1259,21 +1116,6 @@
 			path = qietu;
 			sourceTree = "<group>";
 		};
-		180BAC1B1E7421DD00254F3F /* vip */ = {
-			isa = PBXGroup;
-			children = (
-				180BAC1C1E7421DD00254F3F /* btn.png */,
-				180BAC1D1E7421DD00254F3F /* btn_photo@2x.png */,
-				180BAC1E1E7421DD00254F3F /* icon1@2x.png */,
-				180BAC1F1E7421DD00254F3F /* icon2@2x.png */,
-				180BAC201E7421DD00254F3F /* icon3@2x.png */,
-				180BAC211E7421DD00254F3F /* icon4@2x.png */,
-				180BAC221E7421DD00254F3F /* icon5@2x.png */,
-				180BAC231E7421DD00254F3F /* icon6@2x.png */,
-			);
-			path = vip;
-			sourceTree = "<group>";
-		};
 		180BAD011E74227F00254F3F /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -1376,128 +1218,110 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		180BAD791E74E0B200254F3F /* 收入报表 */ = {
+		180BAE961E7581DB00254F3F /* Commodity */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD731E74E0B200254F3F /* PosAboutViewController.h */,
-				180BAD741E74E0B200254F3F /* PosAboutViewController.m */,
-				180BAD751E74E0B200254F3F /* PosSystemSetViewController.h */,
-				180BAD761E74E0B200254F3F /* PosSetopasswordViewController.h */,
-				180BAD771E74E0B200254F3F /* PosSetopasswordViewController.m */,
-				180BAD781E74E0B200254F3F /* PosSystemSetViewController.m */,
+				180BAE971E7581DB00254F3F /* PosCommdityViewController.h */,
+				180BAE981E7581DB00254F3F /* PosCommdityViewController.m */,
 			);
-			name = "收入报表";
-			path = ../../../../YGJPos/YGJPos/Main/SystemSet;
+			path = Commodity;
 			sourceTree = "<group>";
 		};
-		180BAD831E74E0BE00254F3F /* 今年0单员工 */ = {
+		180BAE991E7581DB00254F3F /* DailyCashier  */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD7D1E74E0BE00254F3F /* PosQuickCashViewController.h */,
-				180BAD7E1E74E0BE00254F3F /* PosQuickCashViewController.m */,
-				180BAD7F1E74E0BE00254F3F /* PosPlanViewController.h */,
-				180BAD801E74E0BE00254F3F /* PosPlanViewController.m */,
-				180BAD811E74E0BE00254F3F /* PosMoneyViewController.h */,
-				180BAD821E74E0BE00254F3F /* PosMoneyViewController.m */,
+				180BAE9A1E7581DB00254F3F /* PosDayCashViewController.h */,
+				180BAE9B1E7581DB00254F3F /* PosDayCashViewController.m */,
 			);
-			name = "今年0单员工";
-			path = ../../../../YGJPos/YGJPos/Main/QuickCashier;
+			path = "DailyCashier ";
 			sourceTree = "<group>";
 		};
-		180BAD881E74E0BE00254F3F /* 本月未完成 */ = {
+		180BAE9C1E7581DB00254F3F /* MemberQuery */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD841E74E0BE00254F3F /* PosOldinforViewController.h */,
-				180BAD851E74E0BE00254F3F /* PosOldinforViewController.m */,
-				180BAD861E74E0BE00254F3F /* PosOrderRefundViewController.h */,
-				180BAD871E74E0BE00254F3F /* PosOrderRefundViewController.m */,
+				180BAE9D1E7581DB00254F3F /* PosInformationViewController.h */,
+				180BAE9E1E7581DB00254F3F /* PosInformationViewController.m */,
+				180BAE9F1E7581DB00254F3F /* PosVipQueryViewController.h */,
+				180BAEA01E7581DB00254F3F /* PosVipQueryViewController.m */,
 			);
-			name = "本月未完成";
-			path = "../../../../YGJPos/YGJPos/Main/OrderRefund ";
+			path = MemberQuery;
 			sourceTree = "<group>";
 		};
-		180BAD8D1E74E0BE00254F3F /* 目标计划 */ = {
+		180BAEA11E7581DB00254F3F /* OrderRefund  */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD891E74E0BE00254F3F /* PosInformationViewController.h */,
-				180BAD8A1E74E0BE00254F3F /* PosInformationViewController.m */,
-				180BAD8B1E74E0BE00254F3F /* PosVipQueryViewController.h */,
-				180BAD8C1E74E0BE00254F3F /* PosVipQueryViewController.m */,
+				180BAEA21E7581DB00254F3F /* PosOldinforViewController.h */,
+				180BAEA31E7581DB00254F3F /* PosOldinforViewController.m */,
+				180BAEA41E7581DB00254F3F /* PosOrderRefundViewController.h */,
+				180BAEA51E7581DB00254F3F /* PosOrderRefundViewController.m */,
 			);
-			name = "目标计划";
-			path = ../../../../YGJPos/YGJPos/Main/MemberQuery;
+			path = "OrderRefund ";
 			sourceTree = "<group>";
 		};
-		180BAD901E74E0BE00254F3F /* 本店日程 */ = {
+		180BAEA61E7581DB00254F3F /* QuickCashier */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD8E1E74E0BE00254F3F /* PosDayCashViewController.h */,
-				180BAD8F1E74E0BE00254F3F /* PosDayCashViewController.m */,
+				180BAEA71E7581DB00254F3F /* PosMoneyViewController.h */,
+				180BAEA81E7581DB00254F3F /* PosMoneyViewController.m */,
+				180BAEA91E7581DB00254F3F /* PosPlanViewController.h */,
+				180BAEAA1E7581DB00254F3F /* PosPlanViewController.m */,
+				180BAEAB1E7581DB00254F3F /* PosQuickCashViewController.h */,
+				180BAEAC1E7581DB00254F3F /* PosQuickCashViewController.m */,
 			);
-			name = "本店日程";
-			path = "../../../../YGJPos/YGJPos/Main/DailyCashier ";
+			path = QuickCashier;
 			sourceTree = "<group>";
 		};
-		180BAD931E74E0BE00254F3F /* 今日上班员工 */ = {
+		180BAEAD1E7581DB00254F3F /* Succession */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD911E74E0BE00254F3F /* PosCommdityViewController.h */,
-				180BAD921E74E0BE00254F3F /* PosCommdityViewController.m */,
+				180BAEAE1E7581DB00254F3F /* AccountInfoViewController.h */,
+				180BAEAF1E7581DB00254F3F /* AccountInfoViewController.m */,
+				180BAEB01E7581DB00254F3F /* BasicfileViewController.h */,
+				180BAEB11E7581DB00254F3F /* BasicfileViewController.m */,
+				180BAEB21E7581DB00254F3F /* CustomerdetailsViewController.h */,
+				180BAEB31E7581DB00254F3F /* CustomerdetailsViewController.m */,
+				180BAEB41E7581DB00254F3F /* DateViewController.h */,
+				180BAEB51E7581DB00254F3F /* DateViewController.m */,
+				180BAEB61E7581DB00254F3F /* ManagementViewController.h */,
+				180BAEB71E7581DB00254F3F /* ManagementViewController.m */,
+				180BAEB81E7581DB00254F3F /* NursingViewController.h */,
+				180BAEB91E7581DB00254F3F /* NursingViewController.m */,
+				180BAEBA1E7581DB00254F3F /* OrderViewController.h */,
+				180BAEBB1E7581DB00254F3F /* OrderViewController.m */,
+				180BAEBC1E7581DB00254F3F /* PosHandoverViewController.h */,
+				180BAEBD1E7581DB00254F3F /* PosHandoverViewController.m */,
+				180BAEBE1E7581DB00254F3F /* PrivacyViewController.h */,
+				180BAEBF1E7581DB00254F3F /* PrivacyViewController.m */,
+				180BAEC01E7581DB00254F3F /* PrvacylifeViewController.h */,
+				180BAEC11E7581DB00254F3F /* PrvacylifeViewController.m */,
+				180BAEC21E7581DB00254F3F /* PurchasehistoryViewController.h */,
+				180BAEC31E7581DB00254F3F /* PurchasehistoryViewController.m */,
+				180BAEC41E7581DB00254F3F /* SalesViewController.h */,
+				180BAEC51E7581DB00254F3F /* SalesViewController.m */,
 			);
-			name = "今日上班员工";
-			path = ../../../../YGJPos/YGJPos/Main/Commodity;
+			path = Succession;
 			sourceTree = "<group>";
 		};
-		180BADAD1E74E0BE00254F3F /* 档案管理 */ = {
+		180BAEC61E7581DB00254F3F /* SystemSet */ = {
 			isa = PBXGroup;
 			children = (
-				180BAD941E74E0BE00254F3F /* PosHandoverViewController.h */,
-				180BAD951E74E0BE00254F3F /* PosHandoverViewController.m */,
-				180BAD961E74E0BE00254F3F /* CustomerdetailsViewController.h */,
-				180BAD971E74E0BE00254F3F /* CustomerdetailsViewController.m */,
-				180BAD981E74E0BE00254F3F /* AccountInfoViewController.h */,
-				180BAD991E74E0BE00254F3F /* AccountInfoViewController.m */,
-				180BAD9A1E74E0BE00254F3F /* BasicfileViewController.h */,
-				180BAD9B1E74E0BE00254F3F /* BasicfileViewController.m */,
-				180BAD9C1E74E0BE00254F3F /* PurchasehistoryViewController.h */,
-				180BAD9D1E74E0BE00254F3F /* PurchasehistoryViewController.m */,
-				180BAD9E1E74E0BE00254F3F /* OrderViewController.h */,
-				180BAD9F1E74E0BE00254F3F /* OrderViewController.m */,
-				180BADA01E74E0BE00254F3F /* NursingViewController.h */,
-				180BADA11E74E0BE00254F3F /* NursingViewController.m */,
-				180BADA21E74E0BE00254F3F /* SalesViewController.h */,
-				180BADA31E74E0BE00254F3F /* PosActivityViewController.m */,
-				180BADA41E74E0BE00254F3F /* SalesViewController.m */,
-				180BADA51E74E0BE00254F3F /* PrivacyViewController.h */,
-				180BADA61E74E0BE00254F3F /* PrivacyViewController.m */,
-				180BADA71E74E0BE00254F3F /* PrvacylifeViewController.h */,
-				180BADA81E74E0BE00254F3F /* PrvacylifeViewController.m */,
-				180BADA91E74E0BE00254F3F /* DateViewController.h */,
-				180BADAA1E74E0BE00254F3F /* DateViewController.m */,
-				180BADAB1E74E0BE00254F3F /* ManagementViewController.h */,
-				180BADAC1E74E0BE00254F3F /* ManagementViewController.m */,
+				180BAEC71E7581DB00254F3F /* PosAboutViewController.h */,
+				180BAEC81E7581DB00254F3F /* PosAboutViewController.m */,
+				180BAEC91E7581DB00254F3F /* PosSetopasswordViewController.h */,
+				180BAECA1E7581DB00254F3F /* PosSetopasswordViewController.m */,
+				180BAECB1E7581DB00254F3F /* PosSystemSetViewController.h */,
+				180BAECC1E7581DB00254F3F /* PosSystemSetViewController.m */,
 			);
-			name = "档案管理";
-			path = ../../../../YGJPos/YGJPos/Main/Succession;
+			path = SystemSet;
 			sourceTree = "<group>";
 		};
-		180BADB01E74E0BE00254F3F /* 本月已完成 */ = {
+		180BAECD1E7581DB00254F3F /* VIPRegist */ = {
 			isa = PBXGroup;
 			children = (
-				180BADAE1E74E0BE00254F3F /* PosVipRegistViewController.h */,
-				180BADAF1E74E0BE00254F3F /* PosVipRegistViewController.m */,
+				180BAECE1E7581DB00254F3F /* PosVipRegistViewController.h */,
+				180BAECF1E7581DB00254F3F /* PosVipRegistViewController.m */,
 			);
-			name = "本月已完成";
-			path = ../../../../YGJPos/YGJPos/Main/VIPRegist;
-			sourceTree = "<group>";
-		};
-		180BADB21E74E0BE00254F3F /* 员工日报 */ = {
-			isa = PBXGroup;
-			children = (
-				180BADB11E74E0BE00254F3F /* PosActivityViewController.h */,
-			);
-			name = "员工日报";
-			path = "../../../../YGJPos/YGJPos/Main/Activity platform ";
+			path = VIPRegist;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1614,22 +1438,18 @@
 				180BACBA1E7421DD00254F3F /* Combined Shape@2x.png in Resources */,
 				180BAD561E74288B00254F3F /* home_icon@2x.png in Resources */,
 				180BAC3B1E7421DD00254F3F /* icon_cony@3x.png in Resources */,
-				180BAC871E7421DD00254F3F /* 公告 copy 5@3x.png in Resources */,
 				180BACF21E7421DD00254F3F /* icon_fu@3x.png in Resources */,
 				180BACD31E7421DD00254F3F /* bj_login.png in Resources */,
 				180BAC431E7421DD00254F3F /* icon_name10@3x.png in Resources */,
 				180BACEC1E7421DD00254F3F /* Shape@2x.png in Resources */,
 				180BAC2E1E7421DD00254F3F /* icon_2@2x.png in Resources */,
 				180BACBE1E7421DD00254F3F /* Group 15@2x.png in Resources */,
-				180BAC7A1E7421DD00254F3F /* icon_di@2x.png in Resources */,
 				180BAC591E7421DD00254F3F /* icon_name9@3x.png in Resources */,
 				180BAC371E7421DD00254F3F /* icon_but@2x.png in Resources */,
 				180BAC6E1E7421DD00254F3F /* verticaliline@2x.png in Resources */,
-				180BAC8C1E7421DD00254F3F /* 已完成@2x.png in Resources */,
 				180BAC491E7421DD00254F3F /* icon_name1@3x.png in Resources */,
 				180BAC611E7421DD00254F3F /* icon_people@2x.png in Resources */,
 				180BACA21E7421DD00254F3F /* Group 25@2x.png in Resources */,
-				180BAC731E7421DD00254F3F /* Group 3@3x.png in Resources */,
 				180BAC291E7421DD00254F3F /* icon2_2@2x.png in Resources */,
 				180BACAF1E7421DD00254F3F /* Group 8@3x.png in Resources */,
 				180BAC531E7421DD00254F3F /* icon_name6@3x.png in Resources */,
@@ -1640,7 +1460,6 @@
 				180BACC81E7421DD00254F3F /* icon3_home.png in Resources */,
 				180BAC541E7421DD00254F3F /* icon_name7@2x.png in Resources */,
 				180BAE631E7540F400254F3F /* icon_row@2x.png in Resources */,
-				180BAC7C1E7421DD00254F3F /* Rectangle Copy 8@2x.png in Resources */,
 				180BAC6A1E7421DD00254F3F /* ipone_icon@2x.png in Resources */,
 				180BAC2D1E7421DD00254F3F /* icon_10@2x.png in Resources */,
 				180BAC5D1E7421DD00254F3F /* icon_off@2x.png in Resources */,
@@ -1648,7 +1467,6 @@
 				180BAE731E754E8E00254F3F /* bigYinlian@3x.png in Resources */,
 				180BA91D1E741D7300254F3F /* LaunchScreen.storyboard in Resources */,
 				180BACCD1E7421DD00254F3F /* icon_address.png in Resources */,
-				180BAC741E7421DD00254F3F /* Group 7@2x.png in Resources */,
 				180BA9651E741FF600254F3F /* Assets.xcassets in Resources */,
 				180BACA91E7421DD00254F3F /* Group 4@3x.png in Resources */,
 				180BAC6C1E7421DD00254F3F /* select1_1@2x.png in Resources */,
@@ -1662,36 +1480,24 @@
 				180BACA71E7421DD00254F3F /* Group 3@3x.png in Resources */,
 				180BACE01E7421DD00254F3F /* logo.jpg in Resources */,
 				180BACD91E7421DD00254F3F /* home1@2x.png in Resources */,
-				180BAC831E7421DD00254F3F /* 公告 copy 3@3x.png in Resources */,
 				180BACA61E7421DD00254F3F /* Group 3@2x.png in Resources */,
 				180BACF31E7421DD00254F3F /* 日期@2x.png in Resources */,
 				180BAC581E7421DD00254F3F /* icon_name9@2x.png in Resources */,
-				180BAC771E7421DD00254F3F /* Group 8@3x.png in Resources */,
-				180BAC8B1E7421DD00254F3F /* 公告@3x.png in Resources */,
 				180BAC3E1E7421DD00254F3F /* icon_JIA@2x.png in Resources */,
 				180BAE771E7569F000254F3F /* icon_sure@3x.png in Resources */,
-				180BAC941E7421DD00254F3F /* 钱-4@2x.png in Resources */,
 				180BACED1E7421DD00254F3F /* Shape@3x.png in Resources */,
 				180BAC571E7421DD00254F3F /* icon_name8@3x.png in Resources */,
 				180BACBC1E7421DD00254F3F /* Group 11@2x.png in Resources */,
 				180BACDB1E7421DD00254F3F /* icon1_login.png in Resources */,
 				180BAC301E7421DD00254F3F /* icon_4@2x.png in Resources */,
-				180BAC7B1E7421DD00254F3F /* icon_di@3x.png in Resources */,
 				180BACDE1E7421DD00254F3F /* icon_del_login.png in Resources */,
-				180BAC701E7421DD00254F3F /* Group 2@2x.png in Resources */,
 				180BAC381E7421DD00254F3F /* icon_but@3x.png in Resources */,
-				180BACFA1E7421DD00254F3F /* btn_photo@2x.png in Resources */,
 				180BACE61E7421DD00254F3F /* Group 4@2x.png in Resources */,
 				180BAD521E74247D00254F3F /* icon_di@2x.png in Resources */,
-				180BACFE1E7421DD00254F3F /* icon4@2x.png in Resources */,
-				180BAC711E7421DD00254F3F /* Group 2@3x.png in Resources */,
-				180BAC891E7421DD00254F3F /* 公告 copy@3x.png in Resources */,
 				180BACD81E7421DD00254F3F /* chatting1@2x.png in Resources */,
 				180BACE81E7421DD00254F3F /* Group@2x.png in Resources */,
 				180BAD5B1E742D3B00254F3F /* nav_message@3x.png in Resources */,
 				180BAC551E7421DD00254F3F /* icon_name7@3x.png in Resources */,
-				180BAD001E7421DD00254F3F /* icon6@2x.png in Resources */,
-				180BAC7D1E7421DD00254F3F /* Rectangle Copy 8@3x.png in Resources */,
 				180BAC5C1E7421DD00254F3F /* icon_noe@3x.png in Resources */,
 				180BACD21E7421DD00254F3F /* achive@2x.png in Resources */,
 				180BAC441E7421DD00254F3F /* icon_name11@2x.png in Resources */,
@@ -1699,9 +1505,6 @@
 				180BACAA1E7421DD00254F3F /* Group 5@2x.png in Resources */,
 				180BAC561E7421DD00254F3F /* icon_name8@2x.png in Resources */,
 				180BAC401E7421DD00254F3F /* icon_liebiao@2x.png in Resources */,
-				180BAC751E7421DD00254F3F /* Group 7@3x.png in Resources */,
-				180BAC811E7421DD00254F3F /* 公告 copy 2@3x.png in Resources */,
-				180BAC781E7421DD00254F3F /* Group@2x.png in Resources */,
 				180BAC2F1E7421DD00254F3F /* icon_3@2x.png in Resources */,
 				180BACBB1E7421DD00254F3F /* Group 10@2x.png in Resources */,
 				180BACB11E7421DD00254F3F /* Group 9@3x.png in Resources */,
@@ -1709,7 +1512,6 @@
 				180BACF81E7421DD00254F3F /* select2@2x.png in Resources */,
 				180BAC311E7421DD00254F3F /* icon_5@2x.png in Resources */,
 				180BAC961E7421DD00254F3F /* 24@2x.png in Resources */,
-				180BAC931E7421DD00254F3F /* 电话 copy@3x.png in Resources */,
 				180BAC5E1E7421DD00254F3F /* icon_off@3x.png in Resources */,
 				180BAE761E7569F000254F3F /* icon_sure@2x.png in Resources */,
 				180BAE861E7571B900254F3F /* icon_line@3x.png in Resources */,
@@ -1720,7 +1522,6 @@
 				180BAE641E7540F400254F3F /* icon_row@3x.png in Resources */,
 				180BACF41E7421DD00254F3F /* 日期@3x.png in Resources */,
 				180BAC991E7421DD00254F3F /* Group 10@3x.png in Resources */,
-				180BAC901E7421DD00254F3F /* 时间(1) copy@2x.png in Resources */,
 				180BAE811E756F6000254F3F /* icon_go@2x.png in Resources */,
 				180BACCC1E7421DD00254F3F /* icon7_home.png in Resources */,
 				180BACCA1E7421DD00254F3F /* icon5_home.png in Resources */,
@@ -1728,57 +1529,44 @@
 				180BACC51E7421DD00254F3F /* Group 8@2x.png in Resources */,
 				180BACD11E7421DD00254F3F /* achive1@2x.png in Resources */,
 				180BAC3A1E7421DD00254F3F /* icon_cony@2x.png in Resources */,
-				180BACF91E7421DD00254F3F /* btn.png in Resources */,
 				180BACC21E7421DD00254F3F /* Group 4@2x.png in Resources */,
 				180BACB21E7421DD00254F3F /* Shape@2x.png in Resources */,
 				180BAE6A1E754B7600254F3F /* crashout2@2x.png in Resources */,
-				180BAC7E1E7421DD00254F3F /* Shape@2x.png in Resources */,
 				180BACD01E7421DD00254F3F /* icon_back@2x.png in Resources */,
-				180BAC921E7421DD00254F3F /* 电话 copy@2x.png in Resources */,
 				180BACEA1E7421DD00254F3F /* Icon@2x.png in Resources */,
-				180BAC721E7421DD00254F3F /* Group 3@2x.png in Resources */,
 				180BACDA1E7421DD00254F3F /* home@2x.png in Resources */,
 				180BACA41E7421DD00254F3F /* Group 2@2x.png in Resources */,
 				180BACA01E7421DD00254F3F /* Group 25 Copy@2x.png in Resources */,
 				180BAC521E7421DD00254F3F /* icon_name6@2x.png in Resources */,
 				180BAC451E7421DD00254F3F /* icon_name11@3x.png in Resources */,
 				180BACC31E7421DD00254F3F /* Group 5@2x.png in Resources */,
-				180BAC8A1E7421DD00254F3F /* 公告@2x.png in Resources */,
 				180BACA51E7421DD00254F3F /* Group 2@3x.png in Resources */,
 				180BAC4D1E7421DD00254F3F /* icon_name3@3x.png in Resources */,
 				180BACE31E7421DD00254F3F /* verticalline_login.png in Resources */,
 				180BACB81E7421DD00254F3F /* bj_address.png in Resources */,
 				180BAC9B1E7421DD00254F3F /* Group 11@3x.png in Resources */,
-				180BACFF1E7421DD00254F3F /* icon5@2x.png in Resources */,
 				180BACA81E7421DD00254F3F /* Group 4@2x.png in Resources */,
 				180BAC691E7421DD00254F3F /* icon_zhuan@2x.png in Resources */,
 				180BAC511E7421DD00254F3F /* icon_name5@3x.png in Resources */,
-				180BAC761E7421DD00254F3F /* Group 8@2x.png in Resources */,
-				180BAC951E7421DD00254F3F /* 钱-4@3x.png in Resources */,
 				180BAC9F1E7421DD00254F3F /* Group 24@3x.png in Resources */,
 				180BAC251E7421DD00254F3F /* btn.png in Resources */,
-				180BAC911E7421DD00254F3F /* 时间(1) copy@3x.png in Resources */,
 				180BAC621E7421DD00254F3F /* icon_people@3x.png in Resources */,
 				180BACF11E7421DD00254F3F /* icon_fu@2x.png in Resources */,
 				180BAC641E7421DD00254F3F /* icon_q@3x.png in Resources */,
 				180BAE691E754B7600254F3F /* cashout@3x.png in Resources */,
 				180BACCE1E7421DD00254F3F /* lALOmz4-Umxs_108_108.png in Resources */,
-				180BAC861E7421DD00254F3F /* 公告 copy 5@2x.png in Resources */,
 				180BACD61E7421DD00254F3F /* bt_login.png in Resources */,
 				180BAC281E7421DD00254F3F /* icon1_1@2x.png in Resources */,
 				180BAC2A1E7421DD00254F3F /* icon3_3@2x.png in Resources */,
 				180BACF71E7421DD00254F3F /* select1@2x.png in Resources */,
 				180BACE51E7421DD00254F3F /* Group 3@3x.png in Resources */,
 				180BAE611E7540F400254F3F /* icon_row1@3x.png in Resources */,
-				180BAC7F1E7421DD00254F3F /* Shape@3x.png in Resources */,
 				180BAC9A1E7421DD00254F3F /* Group 11@2x.png in Resources */,
 				180BAC4A1E7421DD00254F3F /* icon_name2@2x.png in Resources */,
 				180BACEE1E7421DD00254F3F /* 微信.png in Resources */,
 				180BAE7A1E756BDD00254F3F /* icon_shouye@3x.png in Resources */,
 				180BACD41E7421DD00254F3F /* book@2x.png in Resources */,
 				180BAC4C1E7421DD00254F3F /* icon_name3@2x.png in Resources */,
-				180BAC851E7421DD00254F3F /* 公告 copy 4@3x.png in Resources */,
-				180BAC8D1E7421DD00254F3F /* 已完成@3x.png in Resources */,
 				180BACB61E7421DD00254F3F /* vip@2x.png in Resources */,
 				180BAC671E7421DD00254F3F /* icon_yin@2x.png in Resources */,
 				180BACF51E7421DD00254F3F /* icon_yinlian@2x.png in Resources */,
@@ -1793,16 +1581,12 @@
 				180BACAC1E7421DD00254F3F /* Group 6@2x.png in Resources */,
 				180BACCF1E7421DD00254F3F /* logo_home.png in Resources */,
 				180BAE851E7571B900254F3F /* icon_line@2x.png in Resources */,
-				180BAC841E7421DD00254F3F /* 公告 copy 4@2x.png in Resources */,
 				180BAC421E7421DD00254F3F /* icon_name10@2x.png in Resources */,
 				180BAC4F1E7421DD00254F3F /* icon_name4@3x.png in Resources */,
 				180BAC2B1E7421DD00254F3F /* icon4_4@2x.png in Resources */,
 				180BAC981E7421DD00254F3F /* Group 10@2x.png in Resources */,
-				180BACFB1E7421DD00254F3F /* icon1@2x.png in Resources */,
 				180BACAD1E7421DD00254F3F /* Group 6@3x.png in Resources */,
-				180BACFC1E7421DD00254F3F /* icon2@2x.png in Resources */,
 				180BAC4B1E7421DD00254F3F /* icon_name2@3x.png in Resources */,
-				180BAC8F1E7421DD00254F3F /* 日期@3x.png in Resources */,
 				180BACB01E7421DD00254F3F /* Group 9@2x.png in Resources */,
 				180BAC2C1E7421DD00254F3F /* icon5_5@2x.png in Resources */,
 				180BAC5A1E7421DD00254F3F /* icon_next.png in Resources */,
@@ -1814,12 +1598,10 @@
 				180BAC651E7421DD00254F3F /* icon_rili@2x.png in Resources */,
 				180BACBF1E7421DD00254F3F /* Group 17@2x.png in Resources */,
 				180BACB71E7421DD00254F3F /* vip@3x.png in Resources */,
-				180BAC791E7421DD00254F3F /* Group@3x.png in Resources */,
 				180BAC661E7421DD00254F3F /* icon_sex@2x.png in Resources */,
 				180BACE71E7421DD00254F3F /* Group 4@3x.png in Resources */,
 				180BAE6B1E754B7600254F3F /* renminbiIcon@2x.png in Resources */,
 				180BACB41E7421DD00254F3F /* vip (2) copy@2x.png in Resources */,
-				180BAC801E7421DD00254F3F /* 公告 copy 2@2x.png in Resources */,
 				180BAC9C1E7421DD00254F3F /* Group 13@2x.png in Resources */,
 				180BAC6F1E7421DD00254F3F /* verticalline_line_@2x.png in Resources */,
 				180BACCB1E7421DD00254F3F /* icon6_home.png in Resources */,
@@ -1839,10 +1621,7 @@
 				180BACC61E7421DD00254F3F /* icon1_home.png in Resources */,
 				180BAE891E757EC800254F3F /* icon_contecon@3x.png in Resources */,
 				180BACE91E7421DD00254F3F /* Group@3x.png in Resources */,
-				180BAC821E7421DD00254F3F /* 公告 copy 3@2x.png in Resources */,
-				180BACFD1E7421DD00254F3F /* icon3@2x.png in Resources */,
 				180BAE8A1E757EC800254F3F /* icon_contecon@2x.png in Resources */,
-				180BAC8E1E7421DD00254F3F /* 日期@2x.png in Resources */,
 				180BAC601E7421DD00254F3F /* icon_peo@3x.png in Resources */,
 				180BAC9E1E7421DD00254F3F /* Group 24@2x.png in Resources */,
 				180BAC631E7421DD00254F3F /* icon_q@2x.png in Resources */,
@@ -1852,7 +1631,6 @@
 				180BACE21E7421DD00254F3F /* mine@2x.png in Resources */,
 				180BAC461E7421DD00254F3F /* icon_name12@2x.png in Resources */,
 				180BACB91E7421DD00254F3F /* bj_home@2x.png in Resources */,
-				180BAC881E7421DD00254F3F /* 公告 copy@2x.png in Resources */,
 				180BAC5F1E7421DD00254F3F /* icon_peo@2x.png in Resources */,
 				180BAC391E7421DD00254F3F /* icon_contion@2x.png in Resources */,
 				180BACE11E7421DD00254F3F /* mine1@2x.png in Resources */,
@@ -1885,78 +1663,77 @@
 			files = (
 				180BA9151E741D7300254F3F /* ViewController.m in Sources */,
 				180BA9541E741E4E00254F3F /* YMBaseViewController.m in Sources */,
-				180BADB41E74E0BE00254F3F /* PosPlanViewController.m in Sources */,
-				180BADBA1E74E0BE00254F3F /* PosDayCashViewController.m in Sources */,
 				180BAD2A1E74232A00254F3F /* AFSecurityPolicy.m in Sources */,
 				180BAD271E74232A00254F3F /* AFHTTPRequestOperationManager.m in Sources */,
-				180BAD7B1E74E0B200254F3F /* PosSetopasswordViewController.m in Sources */,
-				180BAD7C1E74E0B200254F3F /* PosSystemSetViewController.m in Sources */,
 				180BAD6D1E74DAC400254F3F /* POSAnimationButton.m in Sources */,
-				180BADC61E74E0BE00254F3F /* PrvacylifeViewController.m in Sources */,
 				180BAD261E74232A00254F3F /* AFHTTPRequestOperation.m in Sources */,
+				180BAEEA1E7581DB00254F3F /* PosAboutViewController.m in Sources */,
 				180BA9121E741D7300254F3F /* AppDelegate.m in Sources */,
+				180BAEE41E7581DB00254F3F /* OrderViewController.m in Sources */,
+				180BAEE01E7581DB00254F3F /* CustomerdetailsViewController.m in Sources */,
+				180BAEDE1E7581DB00254F3F /* AccountInfoViewController.m in Sources */,
+				180BAED71E7581DB00254F3F /* PosInformationViewController.m in Sources */,
 				180BA95A1E741E6A00254F3F /* YMScoreViewController.m in Sources */,
-				180BADBF1E74E0BE00254F3F /* BasicfileViewController.m in Sources */,
-				180BADB31E74E0BE00254F3F /* PosQuickCashViewController.m in Sources */,
 				180BADD31E74E67500254F3F /* StoresinformationViewController.m in Sources */,
 				180BAD041E74228D00254F3F /* YMHomeCollectionView.m in Sources */,
-				180BAD7A1E74E0B200254F3F /* PosAboutViewController.m in Sources */,
+				180BAEEC1E7581DB00254F3F /* PosSystemSetViewController.m in Sources */,
 				180BAD4F1E74240600254F3F /* View+MASAdditions.m in Sources */,
 				180BA9491E741DD700254F3F /* YMTabbarVC.m in Sources */,
+				180BAEE61E7581DB00254F3F /* PrivacyViewController.m in Sources */,
+				180BAEDC1E7581DB00254F3F /* PosPlanViewController.m in Sources */,
+				180BAED51E7581DB00254F3F /* PosCommdityViewController.m in Sources */,
+				180BAEEB1E7581DB00254F3F /* PosSetopasswordViewController.m in Sources */,
 				180BA9601E741E7600254F3F /* YMHomeViewController.m in Sources */,
-				180BADBC1E74E0BE00254F3F /* PosHandoverViewController.m in Sources */,
-				180BADC11E74E0BE00254F3F /* OrderViewController.m in Sources */,
+				180BAEDB1E7581DB00254F3F /* PosMoneyViewController.m in Sources */,
+				180BAEDD1E7581DB00254F3F /* PosQuickCashViewController.m in Sources */,
 				180BAD0B1E7422A000254F3F /* PosHomeHeaderView.m in Sources */,
 				180BAD6B1E74DAC400254F3F /* PosLoginViewController.m in Sources */,
 				180BAE7E1E756CDF00254F3F /* SurecashoutViewController.m in Sources */,
-				180BADC91E74E0BE00254F3F /* PosVipRegistViewController.m in Sources */,
-				180BADC21E74E0BE00254F3F /* NursingViewController.m in Sources */,
 				180BAD491E74240600254F3F /* MASConstraintMaker.m in Sources */,
-				180BADBE1E74E0BE00254F3F /* AccountInfoViewController.m in Sources */,
-				180BADBD1E74E0BE00254F3F /* CustomerdetailsViewController.m in Sources */,
 				180BAD6E1E74DAC400254F3F /* POSCircleAnimationView.m in Sources */,
 				180BAE5C1E75361100254F3F /* WithdrawalwayViewController.m in Sources */,
 				180BAD4D1E74240600254F3F /* NSArray+MASAdditions.m in Sources */,
 				180BAD4C1E74240600254F3F /* MASViewConstraint.m in Sources */,
-				180BADB51E74E0BE00254F3F /* PosMoneyViewController.m in Sources */,
-				180BADC71E74E0BE00254F3F /* DateViewController.m in Sources */,
 				180BAB3D1E7420E000254F3F /* PosTool.m in Sources */,
-				180BADB91E74E0BE00254F3F /* PosVipQueryViewController.m in Sources */,
-				180BADC51E74E0BE00254F3F /* PrivacyViewController.m in Sources */,
-				180BADC41E74E0BE00254F3F /* SalesViewController.m in Sources */,
 				180BA9571E741E6100254F3F /* YMLessonViewController.m in Sources */,
-				180BADBB1E74E0BE00254F3F /* PosCommdityViewController.m in Sources */,
-				180BADB81E74E0BE00254F3F /* PosInformationViewController.m in Sources */,
+				180BAEE81E7581DB00254F3F /* PurchasehistoryViewController.m in Sources */,
+				180BAEE51E7581DB00254F3F /* PosHandoverViewController.m in Sources */,
 				180BAD281E74232A00254F3F /* AFHTTPSessionManager.m in Sources */,
 				180BA9631E741EB500254F3F /* YMNavgatinController.m in Sources */,
 				180BAD6F1E74DAC400254F3F /* PosLoginInputView.m in Sources */,
 				180BAB3E1E7420E000254F3F /* UIColor+PosColor.m in Sources */,
 				180BAD2B1E74232A00254F3F /* AFURLConnectionOperation.m in Sources */,
 				180BAD2C1E74232A00254F3F /* AFURLRequestSerialization.m in Sources */,
-				180BADC01E74E0BE00254F3F /* PurchasehistoryViewController.m in Sources */,
+				180BAED91E7581DB00254F3F /* PosOldinforViewController.m in Sources */,
 				180BAD2E1E74232A00254F3F /* AFURLSessionManager.m in Sources */,
 				180BAD2D1E74232A00254F3F /* AFURLResponseSerialization.m in Sources */,
+				180BAEE31E7581DB00254F3F /* NursingViewController.m in Sources */,
 				180BAE6F1E754D1700254F3F /* CashoutViewController.m in Sources */,
 				180BAD4E1E74240600254F3F /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				180BAEE71E7581DB00254F3F /* PrvacylifeViewController.m in Sources */,
 				180BAD4A1E74240600254F3F /* MASLayoutConstraint.m in Sources */,
-				180BADB71E74E0BE00254F3F /* PosOrderRefundViewController.m in Sources */,
+				180BAEE11E7581DB00254F3F /* DateViewController.m in Sources */,
+				180BAEE91E7581DB00254F3F /* SalesViewController.m in Sources */,
+				180BAED81E7581DB00254F3F /* PosVipQueryViewController.m in Sources */,
+				180BAED61E7581DB00254F3F /* PosDayCashViewController.m in Sources */,
 				180BADD51E74E67500254F3F /* MybillViewController.m in Sources */,
-				180BADB61E74E0BE00254F3F /* PosOldinforViewController.m in Sources */,
 				180BA95D1E741E7000254F3F /* YMChatViewController.m in Sources */,
 				180BA90F1E741D7300254F3F /* main.m in Sources */,
-				180BADC81E74E0BE00254F3F /* ManagementViewController.m in Sources */,
 				180BAD481E74240600254F3F /* MASConstraint.m in Sources */,
+				180BAEE21E7581DB00254F3F /* ManagementViewController.m in Sources */,
 				180BAD721E74DC4B00254F3F /* PosBaseView.m in Sources */,
+				180BAEDF1E7581DB00254F3F /* BasicfileViewController.m in Sources */,
 				180BA9511E741E2D00254F3F /* YMProfileTableViewController.m in Sources */,
 				180BADD81E74F9B700254F3F /* MybankcardViewController.m in Sources */,
+				180BAEDA1E7581DB00254F3F /* PosOrderRefundViewController.m in Sources */,
 				180BAB3B1E7420E000254F3F /* Foundation+Log.m in Sources */,
 				180BAD471E74240600254F3F /* MASCompositeConstraint.m in Sources */,
 				180BAD0A1E7422A000254F3F /* YMHomeCollectionViewCell.m in Sources */,
 				180BADD41E74E67500254F3F /* EmployeesViewController.m in Sources */,
 				180BAD4B1E74240600254F3F /* MASViewAttribute.m in Sources */,
-				180BADC31E74E0BE00254F3F /* PosActivityViewController.m in Sources */,
 				180BAD291E74232A00254F3F /* AFNetworkReachabilityManager.m in Sources */,
 				180BAB3C1E7420E000254F3F /* PosConst.m in Sources */,
+				180BAEED1E7581DB00254F3F /* PosVipRegistViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

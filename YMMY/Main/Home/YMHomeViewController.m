@@ -11,7 +11,6 @@
 #import "AFNetworking.h"
 #import "PosCommdityViewController.h"
 #import "PosQuickCashViewController.h"
-#import "PosActivityViewController.h"
 #import "PosVipRegistViewController.h"
 #import "PosOrderRefundViewController.h"
 #import "PosDayCashViewController.h"
@@ -141,7 +140,7 @@ static  NSString* identifier = @"homeCell";
         
         
     }else if (indexPath.item == 2){
-        vc = [[PosActivityViewController alloc] init];
+//        vc = [[PosActivityViewController alloc] init];
         
     }else if (indexPath.item == 3){
         vc = [[PosVipRegistViewController alloc] init];
