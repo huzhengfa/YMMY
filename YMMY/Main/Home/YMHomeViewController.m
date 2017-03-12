@@ -120,7 +120,7 @@ static  NSString* identifier = @"homeCell";
     
     YMHomeCollectionViewCell* cell = [collectionView dequeueReusableCellWithReuseIdentifier:identifier forIndexPath:indexPath];
     
-    NSArray* imageNameArray = @[@"Group news",@"icon_2",@"icon_3",@"icon_4",@"icon_5",@"icon_10",@"icon_7",@"icon_8",@"icon_9",@"Group news"];
+    NSArray* imageNameArray = @[@"icon_shouye",@"icon_2",@"icon_3",@"icon_4",@"icon_5",@"icon_10",@"icon_7",@"icon_8",@"icon_9",@"Group news"];
     
     NSArray* titleArray = @[@"今日上班员工",@"今日0单员工",@"员工日报",@"本月已完成",@"本月未完成",@"本店日程",@"目标计划",@"档案管理",@"收入报表"];
     

@@ -7,7 +7,7 @@
 //
 
 #import "CashoutViewController.h"
-
+#import "SurecashoutViewController.h"
 @interface CashoutViewController ()<UITableViewDelegate,UITableViewDataSource>
 {
     UIView * firstView;
@@ -37,7 +37,14 @@
     tableView.dataSource = self;
     tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
     
+    
+    
     [self.view addSubview:tableView];
+    UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
+    [button setImage:[UIImage imageNamed:@"icon_sure"] forState:UIControlStateNormal];
+    [button addTarget:self action:@selector(cashout:) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:button];
+    button.frame = CGRectMake(20, SCREEN_HEIGHT-64-60, SCREEN_WIDTH-40, 40);
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
@@ -101,7 +108,7 @@
     [firstView addSubview:img];
 
     UILabel * creditName = [[UILabel alloc]init];
-    creditName.text = @"银行开名称";
+    creditName.text = @"银行名称";
     creditName.frame = CGRectMake(90, 15, 0, 0);
     [creditName sizeToFit];
     creditName.font = [UIFont systemFontOfSize:15];
@@ -161,6 +168,7 @@
     thidView.backgroundColor = [UIColor whiteColor];
     UITextField * textField = [[UITextField alloc]initWithFrame:CGRectMake(20, 15, SCREEN_WIDTH-150, 20)];
     textField.placeholder = @"请输入验证码";
+    
     [thidView addSubview:textField];
     
     UIButton * codeButton = [UIButton buttonWithType:UIButtonTypeCustom];
@@ -180,14 +188,19 @@
 
 -(void)pickAllMoney:(UIButton *)sender{
 
-
+    POSLog(@"提现全部");
 
 
 }
 
 
 
-
+-(void)cashout:(UIButton *)sender{
+    POSLog(@"提现");
+    SurecashoutViewController *vc=[[SurecashoutViewController alloc]init];
+    [self.navigationController pushViewController:vc animated:YES];
+    
+}
 
 
 
