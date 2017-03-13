@@ -20,6 +20,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self setTitle:@"目标计划"];
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
 }
 //
 //-(void)setUI{

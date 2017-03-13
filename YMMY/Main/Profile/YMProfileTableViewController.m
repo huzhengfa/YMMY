@@ -10,6 +10,16 @@
 #import "StoresinformationViewController.h"
 #import "EmployeesViewController.h"
 #import "MybillViewController.h"
+#import "MybankcardViewController.h"
+#import "ChangepasswordViewController.h"
+#import "AdviceViewController.h"
+#import "MycollectionViewController.h"
+#import "MyevaluationViewController.h"
+#import "WorkconclusionViewController.h"
+#import "ClearcacheViewController.h"
+#import "AboutweViewController.h"
+#import "QrcodeViewController.h"
+#import "PersonalinformationViewController.h"
 @interface YMProfileTableViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property(nonatomic,strong)UITableView *tableView;
 
@@ -161,6 +171,8 @@
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     
     if (indexPath.section==0) {
+        PersonalinformationViewController *vc=[[PersonalinformationViewController alloc]init];
+        [self.navigationController pushViewController:vc animated:YES];
         
     }else{
         if (indexPath.section==1) {
@@ -173,9 +185,38 @@
                 [self.navigationController pushViewController:VC animated:YES];
             }else if (indexPath.row==2){
                 MybillViewController *vc=[[MybillViewController alloc]init];
-//                vc.navigationController.navigationBarHidden = YES;
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==3){
+                MybankcardViewController *vc=[[MybankcardViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==4){
+                ChangepasswordViewController *vc=[[ChangepasswordViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==5){
+                AdviceViewController *vc=[[AdviceViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==6){
+                QrcodeViewController *vc=[[QrcodeViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==7){
+                MyevaluationViewController *vc=[[MyevaluationViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+                
+            }else if (indexPath.row==8){
+                MycollectionViewController *vc=[[MycollectionViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==9)
+            {
+                WorkconclusionViewController *vc=[[WorkconclusionViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else if (indexPath.row==10){
+                ClearcacheViewController *vc=[[ClearcacheViewController alloc]init];
+                [self.navigationController pushViewController:vc animated:YES];
+            }else{
+                AboutweViewController *vc=[[ AboutweViewController alloc]init];
                 [self.navigationController pushViewController:vc animated:YES];
             }
+            
         }
     }
     self.tabBarController.tabBar.hidden = YES;

@@ -35,6 +35,13 @@
     self.navigationItem.rightBarButtonItem = item;
     item.tintColor = color;
 }
+
+-(void)setRightButtonOnNavWithText:(NSString *)text target:(id)target action:(SEL)action{
+    UIBarButtonItem* item = [[UIBarButtonItem alloc] initWithTitle:text style:UIBarButtonItemStyleDone target:target action:action];
+    item.tintColor =[UIColor whiteColor];
+    self.navigationItem.rightBarButtonItem = item;
+}
+
 /*
 #pragma mark - Navigation
 

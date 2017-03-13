@@ -40,11 +40,21 @@
     
     
     [self.view addSubview:tableView];
+   
+    
+    
+    
     UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
-    [button setImage:[UIImage imageNamed:@"icon_sure"] forState:UIControlStateNormal];
+    button.backgroundColor = colorWithRGB(96, 220, 223);
+    [button setTitle:@"确认提现" forState:UIControlStateNormal];
+    button.titleLabel.font = [UIFont systemFontOfSize:15];
+    button.layer.cornerRadius = 3;
+    button.layer.masksToBounds = YES;
     [button addTarget:self action:@selector(cashout:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button];
     button.frame = CGRectMake(20, SCREEN_HEIGHT-64-60, SCREEN_WIDTH-40, 40);
+    
+    
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{

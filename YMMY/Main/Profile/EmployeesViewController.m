@@ -7,7 +7,7 @@
 //
 
 #import "EmployeesViewController.h"
-
+#import "AddemployeeViewController.h"
 @interface EmployeesViewController ()<UITableViewDataSource,UITableViewDelegate>
 @property(nonatomic,strong)UITableView *tableView;
 @end
@@ -23,6 +23,9 @@
 
 
 -(void)setUI{
+      [self addRightItemWithImage:[[UIImage imageNamed:@"icon_employeesicon"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal] selector:@selector(addClick)];
+    
+    
     self.tableView = [PosTool tableViewWithStyle:UITableViewStyleGrouped dataSource:self delegate:self];
     [self.view addSubview:self.tableView];
     [self.tableView mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -91,7 +94,7 @@
     UIImageView* imageView2 = [PosTool imageViewWithImageName:@"icon_zhuan"];
     [cell.contentView addSubview:imageView2];
     [imageView2 mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.mas_equalTo(nameLB.mas_right).offset(35);
+        make.left.mas_equalTo(nameLB.mas_right).offset(15);
         make.centerY.mas_equalTo(0);
     }];
     
@@ -103,7 +106,7 @@
     [cell.contentView addSubview:nameLB2];
     
     [nameLB2 mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.mas_equalTo(nameLB.mas_right).offset(50);
+        make.left.mas_equalTo(nameLB.mas_right).offset(30);
         make.centerY.mas_equalTo(cell);
         
         
@@ -115,19 +118,19 @@
     numb.font=[UIFont systemFontOfSize:14];
     [cell.contentView addSubview:numb];
     [numb mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.mas_equalTo(nameLB2.mas_right).offset(50);
+        make.left.mas_equalTo(nameLB2.mas_right).offset(30);
         make.top.mas_equalTo(20);
     }];
     
     
     
     UILabel *numb2=[[UILabel alloc]init];
-    numb2.text=@"总服务次数：   30";
+    numb2.text=@"总服务次数：30";
     numb2.textColor=[UIColor colorWithHexString:@"9b9b9b" alpha:1];
     numb2.font=[UIFont systemFontOfSize:14];
     [cell.contentView addSubview:numb2];
     [numb2 mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.mas_equalTo(nameLB2.mas_right).offset(30);
+        make.left.mas_equalTo(nameLB2.mas_right).offset(25);
         make.top.mas_equalTo(numb.mas_bottom).offset(15);
     }];
     
@@ -154,6 +157,12 @@
     
     
     
+}
+
+
+-(void)addClick{
+    AddemployeeViewController *vc=[[AddemployeeViewController alloc]init];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 -(void)okClick{

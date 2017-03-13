@@ -15,5 +15,5 @@
 -(void)addRightItemWithImage:(UIImage*)image selector:(SEL)selector;
 
 -(void)addRightItemWithTitle:(NSString*)title selector:(SEL)selector color:(UIColor*)color;
-
+-(void)setRightButtonOnNavWithText:(NSString *)text target:(id)target action:(SEL)action;
 @end

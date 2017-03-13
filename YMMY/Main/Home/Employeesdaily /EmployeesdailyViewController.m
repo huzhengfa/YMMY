@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self setTitle:@"员工日报"];
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
 }
 
 - (void)didReceiveMemoryWarning {

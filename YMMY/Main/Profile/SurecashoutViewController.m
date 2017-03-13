@@ -123,9 +123,13 @@
     }];
     
     UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
-    [button setImage:[UIImage imageNamed:@"icon_contecon"] forState:UIControlStateNormal];
+    button.backgroundColor = colorWithRGB(96, 220, 223);
+    [button setTitle:@"完成" forState:UIControlStateNormal];
+    button.titleLabel.font = [UIFont systemFontOfSize:15];
+    button.layer.cornerRadius = 3;
+    button.layer.masksToBounds = YES;
     [button addTarget:self action:@selector(cashout:) forControlEvents:UIControlEventTouchUpInside];
-    [firstView addSubview:button];
+    [self.view addSubview:button];
     button.frame = CGRectMake(20, SCREEN_HEIGHT-64-60, SCREEN_WIDTH-40, 40);
     
     

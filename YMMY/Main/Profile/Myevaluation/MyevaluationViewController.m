@@ -1,30 +1,23 @@
 //
-//  PosOrderRefundViewController.m
-//  YGJPos
+//  MyevaluationViewController.m
+//  YMMY
 //
-//  Created by apple on 2017/1/10.
-//  Copyright © 2017年 HD. All rights reserved.
+//  Created by apple on 2017/3/13.
+//  Copyright © 2017年 apple. All rights reserved.
 //
 
-#import "PosOrderRefundViewController.h"
-@interface PosOrderRefundViewController ()<UITextFieldDelegate>{
-    UITextField *phoneTF;
-}
-@property(nonatomic,strong)UIButton *okbutton;
+#import "MyevaluationViewController.h"
 
+@interface MyevaluationViewController ()
 
 @end
 
-@implementation PosOrderRefundViewController
+@implementation MyevaluationViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self setTitle:@"本月未完成"];
-    self.view.backgroundColor = colorWithRGB(246, 247, 248);
-
+    // Do any additional setup after loading the view.
 }
-
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

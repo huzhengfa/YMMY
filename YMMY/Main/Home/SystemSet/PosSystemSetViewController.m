@@ -18,7 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
      self.title=@"收入报表";
-    
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
 }
 //-(void)setupUI{
 //    

@@ -27,7 +27,8 @@
     
     [self setTitle:@"本月已完成"];
     
-    
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
   
     
     

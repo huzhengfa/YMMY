@@ -1,24 +1,38 @@
 //
-//  YMLessonViewController.m
+//  ClassroommeiViewController.m
 //  YMMY
 //
-//  Created by apple on 2017/3/11.
+//  Created by apple on 2017/3/13.
 //  Copyright © 2017年 apple. All rights reserved.
 //
 
-#import "YMLessonViewController.h"
+#import "ClassroommeiViewController.h"
 
-@interface YMLessonViewController ()
+@interface ClassroommeiViewController ()
 
 @end
 
-@implementation YMLessonViewController
+@implementation ClassroommeiViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     [self setTitle:@"美课堂"];
+    [self setUI];
 }
 
+-(void)setUI{
+    
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
+      [self addRightItemWithImage:[[UIImage imageNamed:@"icon_renxin"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal] selector:@selector(messageClick)];
+    
+    
+    
+}
+-(void)messageClick{
+    POSLog(@"xx");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

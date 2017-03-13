@@ -22,7 +22,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self setTitle:@"本店日程"];
-    
+    self.view.backgroundColor = colorWithRGB(246, 247, 248);
+
 }
 
 
